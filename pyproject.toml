@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "pycricketpred"
+version = "0.1.0"
+description = "A package for predicting and find interesting cricket related statistics!"
+authors = ["DSCI 310 Group 11: Alex Lin, Jackson Siemens, Shruti Vijaykumar Seetharam, Hanlin Zhao"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
