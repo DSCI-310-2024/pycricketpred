@@ -7,7 +7,7 @@ def test_split_train():
     """
     Conduct assertion tests on the functionality of the split_train_test function.
     """
-    data = pd.read_parquet('data/cricket_main.parquet')
+    data = pd.read_parquet('tests/data/cricket_main.parquet')
     X = data.drop(columns = ['wicket'])
     y = data['wicket']
     X_train, X_test, y_train, y_test = train_test_split(X, y, train_size=0.7, random_state=123)
