@@ -105,6 +105,7 @@ def add_columns(df):
 
     Examples
     --------
+    >>> from pycricketpred.data_wrangling import parse_cricket_json
     >>> df_game_23201 = parse_cricket_json(..., '232031')
     >>> add_columns(df_game_23201)
 
@@ -254,6 +255,7 @@ def apply_dtypes_and_concatenate(parquet_files, input_folder, dtype_mapping):
     
     Examples
     ----------
+    >>> from pycricketpred.data_wrangling import determine_majority_dtypes
     >>> majority_mapping = determine_majority_dtypes(['2203.parquet', '21332.parquet'], 'data/t20s_parquet')
     >>> apply_dtypes_and_concatenate(['2203.parquet', '21332.parquet'], 'data/t20s_parquet', majority_mapping)
     """
