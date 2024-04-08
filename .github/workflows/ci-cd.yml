@@ -35,7 +35,7 @@ jobs:
         run: poetry run make html --directory docs/
 
   cd: 
-    permission: 
+    permissions: 
       id-token: write
       contents: write 
 
