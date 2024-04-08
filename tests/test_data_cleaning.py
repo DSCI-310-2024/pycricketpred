@@ -34,7 +34,7 @@ def test_train_test_split_and_concat():
     
     # Perform train test split and concatenate
     X_train, X_test, y_train, y_test,train_data = split_and_save_data(
-        hp_dc.X_fake, hp_dc.y_fake, train_size=0.7, save_table_path=".")
+        hp_dc.X_fake, hp_dc.y_fake, train_size=0.7, save_table_path="tests/data/")
 
 
     # Assertions

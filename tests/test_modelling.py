@@ -12,7 +12,7 @@ def test_split_train():
     y = data['wicket']
     X_train, X_test, y_train, y_test = train_test_split(X, y, train_size=0.7, random_state=123)
 
-    X_train_output, X_test_output, y_train_output, y_test_output = split_train_test('data/cricket_main.parquet')
+    X_train_output, X_test_output, y_train_output, y_test_output = split_train_test('tests/data/cricket_main.parquet')
 
     #The length of the training set should match the length of the output from the train_test_split() function.
     assert(len(X_train) == len(X_train_output))
@@ -71,7 +71,7 @@ def test_build_final_mode():
     """
     ohe, scaler = preprocessing()
     ct = transformer(ohe, scaler)
-    X_train, X_test, y_train, y_test = split_train_test('data/cricket_main.parquet')
+    X_train, X_test, y_train, y_test = split_train_test('tests/data/cricket_main.parquet')
     final_pipe = build_final_model(ct, X_train, y_train)
 
     #The pipeline consists of two layers: the transformer named "columntransformer" and the model named "logisticregression".
@@ -84,9 +84,9 @@ def test_evaluate_model():
     """
     ohe, scaler = preprocessing()
     ct = transformer(ohe, scaler)
-    X_train, X_test, y_train, y_test = split_train_test('data/cricket_main.parquet')
+    X_train, X_test, y_train, y_test = split_train_test('tests/data/cricket_main.parquet')
     final_pipe = build_final_model(ct, X_train, y_train)
-    score, conf_mat, plot_cm = evaluate_model(final_pipe, X_test, y_test, "images/")
+    score, conf_mat, plot_cm = evaluate_model(final_pipe, X_test, y_test, "tests/images/")
 
     #The test score should be exactly the same as before. The values produced by confusion_matrix() should match those obtained previously. 
     #Additionally, plot_cm should be an instance of ConfusionMatrixDisplay().
