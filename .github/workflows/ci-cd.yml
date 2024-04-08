@@ -1,9 +1,6 @@
 name: ci-cd
 
-on:
-  workflow_dispatch: 
-  push: 
-    branches: [ set_workflow ]
+on: [push, pull_request]
 
 jobs:
   ci:
