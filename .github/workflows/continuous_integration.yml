@@ -7,12 +7,12 @@ on:
 
 jobs:
   test:
-    run-on: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - name: install python
         uses: actions/setup-python@v2
         with:
-          python-version 3.9
+          python-version: 3.9
 
       - name: Checkout
         uses: actions/checkout@v2
@@ -21,10 +21,10 @@ jobs:
         uses: snok/install-poetry@v1
 
       - name: packages install
-        uses: poetry install
+        run: poetry install
 
       - name: run pytest with reports
-        uses: poetry run pytest tests/ --cov=pycounts --cov-report=xml
+        run: poetry run pytest tests/ --cov=pycounts --cov-report=xml
 
       - name: see coverage
         uses: codecov/codecov-action@v2
