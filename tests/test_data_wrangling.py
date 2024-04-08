@@ -6,7 +6,7 @@ import zipfile
 import pytest
 import sys
 from collections import defaultdict
-from pycricketpred.data_wrangling import pycricketpred*
+from pycricketpred.data_wrangling import *
 import helpers_data_wrangling as hdw
 
 # test that a dataframe is returned
