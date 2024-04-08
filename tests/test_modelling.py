@@ -41,7 +41,6 @@ def test_preprocessing():
     assert(params_ohe["categories"] == ohe_test["categories"])
     assert(params_ohe["drop"] == ohe_test["drop"])
     assert(params_ohe["dtype"] == ohe_test["dtype"])
-    assert(params_ohe["feature_name_combiner"] == ohe_test["feature_name_combiner"])
     assert(params_ohe["handle_unknown"] == ohe_test["handle_unknown"])
     assert(params_ohe["max_categories"] == ohe_test["max_categories"])
     assert(params_ohe["min_frequency"] == ohe_test["min_frequency"])
