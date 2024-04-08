@@ -36,7 +36,7 @@ height2 = 20.5
 chart1 = "test_chart1.png"
 chart2 = 1
 
-filepath1 = "images/"
+filepath1 = "tests/images/"
 filepath2 = 20
 
 ## testing for figure output validity

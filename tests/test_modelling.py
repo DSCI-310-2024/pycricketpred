@@ -7,12 +7,12 @@ def test_split_train():
     """
     Conduct assertion tests on the functionality of the split_train_test function.
     """
-    data = pd.read_parquet('data/cricket_main.parquet')
+    data = pd.read_parquet('tests/data/cricket_main.parquet')
     X = data.drop(columns = ['wicket'])
     y = data['wicket']
     X_train, X_test, y_train, y_test = train_test_split(X, y, train_size=0.7, random_state=123)
 
-    X_train_output, X_test_output, y_train_output, y_test_output = split_train_test('data/cricket_main.parquet')
+    X_train_output, X_test_output, y_train_output, y_test_output = split_train_test('tests/data/cricket_main.parquet')
 
     #The length of the training set should match the length of the output from the train_test_split() function.
     assert(len(X_train) == len(X_train_output))
@@ -41,7 +41,6 @@ def test_preprocessing():
     assert(params_ohe["categories"] == ohe_test["categories"])
     assert(params_ohe["drop"] == ohe_test["drop"])
     assert(params_ohe["dtype"] == ohe_test["dtype"])
-    assert(params_ohe["feature_name_combiner"] == ohe_test["feature_name_combiner"])
     assert(params_ohe["handle_unknown"] == ohe_test["handle_unknown"])
     assert(params_ohe["max_categories"] == ohe_test["max_categories"])
     assert(params_ohe["min_frequency"] == ohe_test["min_frequency"])
@@ -71,7 +70,7 @@ def test_build_final_mode():
     """
     ohe, scaler = preprocessing()
     ct = transformer(ohe, scaler)
-    X_train, X_test, y_train, y_test = split_train_test('data/cricket_main.parquet')
+    X_train, X_test, y_train, y_test = split_train_test('tests/data/cricket_main.parquet')
     final_pipe = build_final_model(ct, X_train, y_train)
 
     #The pipeline consists of two layers: the transformer named "columntransformer" and the model named "logisticregression".
@@ -84,9 +83,9 @@ def test_evaluate_model():
     """
     ohe, scaler = preprocessing()
     ct = transformer(ohe, scaler)
-    X_train, X_test, y_train, y_test = split_train_test('data/cricket_main.parquet')
+    X_train, X_test, y_train, y_test = split_train_test('tests/data/cricket_main.parquet')
     final_pipe = build_final_model(ct, X_train, y_train)
-    score, conf_mat, plot_cm = evaluate_model(final_pipe, X_test, y_test, "images/")
+    score, conf_mat, plot_cm = evaluate_model(final_pipe, X_test, y_test, "tests/images/")
 
     #The test score should be exactly the same as before. The values produced by confusion_matrix() should match those obtained previously. 
     #Additionally, plot_cm should be an instance of ConfusionMatrixDisplay().

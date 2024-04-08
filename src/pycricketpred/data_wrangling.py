@@ -3,7 +3,6 @@ import pandas as pd
 import json  # Make sure to import json
 import pyarrow
 import zipfile
-import click
 from collections import defaultdict
 
 def parse_cricket_json(file_content, game_id):
