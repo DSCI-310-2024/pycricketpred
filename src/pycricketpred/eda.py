@@ -2,7 +2,6 @@ import numpy as np
 import pandas as pd
 import altair as alt
 import os
-import click
 import matplotlib.pyplot as plt
 
 
@@ -109,6 +108,9 @@ def hist_chart(data, col, chart_name, save_path):
     # ensure dataframe contains the necessary columns
     elif col not in data.columns or 'wicket' not in data.columns:
         raise KeyError("Column must be in DataFrame")
+    
+    elif not os.path.exists(save_path):
+        os.makedirs(save_path)
     else:
         count_wicket = data.groupby(col)['wicket'].count()
         chart = count_wicket.plot(kind = 'bar', xlabel=f"{col}", ylabel="Wicket Count")
