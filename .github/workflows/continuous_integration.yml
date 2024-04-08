@@ -1,0 +1,32 @@
+on:
+  push: 
+    branches: [ main ]
+  pull:
+    branches: [ main ]
+  workflow_dispatch: 
+
+jobs:
+  test:
+    run-on: ubuntu-latest
+    steps:
+      - name: install python
+        uses: actions/setup-python@v2
+        with:
+          python-version 3.9
+
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: poetry install
+        uses: snok/install-poetry@v1
+
+      - name: packages install
+        uses: poetry install
+
+      - name: run pytest with reports
+        uses: poetry run pytest tests/ --cov=pycounts --cov-report=xml
+
+      - name: see coverage
+        uses: codecov/codecov-action@v2
+        with: 
+          file: ./coverage.xml
