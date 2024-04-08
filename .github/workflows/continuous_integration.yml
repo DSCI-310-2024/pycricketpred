@@ -24,7 +24,7 @@ jobs:
         run: poetry install
 
       - name: run pytest with reports
-        run: poetry run pytest tests/ --cov=pycounts --cov-report=xml
+        run: poetry run pytest tests/ --cov=pycricketpred --cov-report=xml
 
       - name: see coverage
         uses: codecov/codecov-action@v2

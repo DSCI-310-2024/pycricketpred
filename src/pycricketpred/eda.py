@@ -94,6 +94,9 @@ def hist_chart(data, col, chart_name, save_path):
     >>> hist_chart(data_cricket, 'inning', 'chart1.png', 'images/')
     """
     # check for type of filepath/name
+    if not os.path.exists(save_path):
+        os.makedirs(save_path)
+
     if type(chart_name) != str or type(save_path) != str:
         raise TypeError("Chart name and file paths must be strings")
     
@@ -108,9 +111,7 @@ def hist_chart(data, col, chart_name, save_path):
     # ensure dataframe contains the necessary columns
     elif col not in data.columns or 'wicket' not in data.columns:
         raise KeyError("Column must be in DataFrame")
-    
-    elif not os.path.exists(save_path):
-        os.makedirs(save_path)
+
     else:
         count_wicket = data.groupby(col)['wicket'].count()
         chart = count_wicket.plot(kind = 'bar', xlabel=f"{col}", ylabel="Wicket Count")
