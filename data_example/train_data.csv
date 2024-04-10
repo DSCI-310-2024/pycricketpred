@@ -1,0 +1,4 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total,team_over,over_ball,inning,runs_cumulative,powerplay,wicket
+1001349,2016/17,Australia,0,AJ Finch,b8d490fd,SL Malinga,a12e1d51,M Klinger,b970a03f,0,0,0,1,,,,,,0,1,0,Australia_0,1,1,0,1,0
+1001349,2016/17,Australia,1,AJ Finch,b8d490fd,SL Malinga,a12e1d51,M Klinger,b970a03f,0,0,1,0,,,,,,1,1,0,Australia_1,1,1,0,1,1
+1001350,2016/17,England,0,JM Bairstow,j4n5b78s,C Woakes,c7w4o2k5,AD Hales,a1d4h89e,1,1,0,0,,,,,,0,0,0,England_0,1,2,0,1,0
