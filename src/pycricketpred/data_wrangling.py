@@ -23,7 +23,10 @@ def parse_cricket_json(file_content, game_id):
 
     Examples
     --------
-    >>> parse_cricket_json(..., '232031')
+    use after opening a json file 
+
+    >>> with open('232031.json') as file_content:
+    >>>     parse_cricket_json(file_content, '232031')
 
     """
     data = json.load(file_content)
@@ -105,8 +108,9 @@ def add_columns(df):
     Examples
     --------
     >>> from pycricketpred.data_wrangling import parse_cricket_json
-    >>> df_game_23201 = parse_cricket_json(..., '232031')
-    >>> add_columns(df_game_23201)
+    >>> with open('232031.json') as file_content:
+    >>>     df_game_232031 = parse_cricket_json(file_content, '232031')
+    >>> add_columns(df_game_232031)
 
     """
     if 'team' not in df.columns or 'over' not in df.columns or 'runs_total' not in df.columns:
