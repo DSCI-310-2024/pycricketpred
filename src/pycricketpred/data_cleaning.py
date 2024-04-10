@@ -108,7 +108,6 @@ def split_and_save_data(X, y, train_size=0.7, save_table_path="."):
     # Create save path directory if it doesn't exist
     if not os.path.exists(save_table_path):
         os.makedirs(save_table_path)
-        print("make the path")
 
     # Save the training data to a CSV file
     try:
