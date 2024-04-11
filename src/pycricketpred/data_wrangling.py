@@ -55,32 +55,32 @@ def parse_cricket_json(file_content, game_id):
                 fielders_id = [player_registry.get(fielders[0], "Unknown") if fielders[0] else ""]
                 kind = [wicket_info[0]['kind'] if wicket_info else ""]
 
-    delivery_info = {
-        "game_id": game_id,
-        "season": season,
-        "team": team_name,
-        "over": over_number,
-        "batter": delivery['batter'],
-        "batter_id": batter_id,
-        "bowler": delivery['bowler'],
-        "bowler_id": bowler_id,
-        "non_striker": delivery['non_striker'],
-        "non_striker_id": non_striker_id,
-        "wides": wides,
-        "noballs": noballs,
-        "legbyes": legbyes,
-        "byes": byes,
-        "wicket": wicket,
-        "player_out": player_out,
-        "player_out_id": player_out_id,
-        "fielders_name": fielders[0],
-        "fielders_id": fielders_id[0],
-        "wicket_type": kind[0],
-        "runs_batter": delivery['runs']['batter'],
-        "runs_extras": delivery['runs']['extras'],
-        "runs_total": delivery['runs']['total']
-    }
-    deliveries_data.append(delivery_info)
+                delivery_info = {
+                    "game_id": game_id,
+                    "season": season,
+                    "team": team_name,
+                    "over": over_number,
+                    "batter": delivery['batter'],
+                    "batter_id": batter_id,
+                    "bowler": delivery['bowler'],
+                    "bowler_id": bowler_id,
+                    "non_striker": delivery['non_striker'],
+                    "non_striker_id": non_striker_id,
+                    "wides": wides,
+                    "noballs": noballs,
+                    "legbyes": legbyes,
+                    "byes": byes,
+                    "wicket": wicket,
+                    "player_out": player_out,
+                    "player_out_id": player_out_id,
+                    "fielders_name": fielders[0],
+                    "fielders_id": fielders_id[0],
+                    "wicket_type": kind[0],
+                    "runs_batter": delivery['runs']['batter'],
+                    "runs_extras": delivery['runs']['extras'],
+                    "runs_total": delivery['runs']['total']
+                }
+                deliveries_data.append(delivery_info)
     return pd.DataFrame(deliveries_data)
 
 

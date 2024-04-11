@@ -184,11 +184,11 @@ def evaluate_model(final_pipe, X_test, y_test, save_image_path):
     >>> evaluate_model(final_model, X_test, y_test, 'images/')
 
     """
+
     score = final_pipe.score(X_test, y_test)
     conf_mat = metrics.confusion_matrix(y_test, final_pipe.predict(X_test))
     plot_cm = metrics.ConfusionMatrixDisplay(conf_mat)
     plot_cm.plot()
-    ##could make the image name as an input of the function
     plt.savefig(os.path.join(save_image_path, "chart7.png"))
     print(f"Model Score: {score}")
     print(f"Chart saved to: {save_image_path}")
