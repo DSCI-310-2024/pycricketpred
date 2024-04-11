@@ -32,7 +32,7 @@ apply_dtypes_and_concatenate(['2203.parquet', '21332.parquet'], 'data/t20s_parqu
 
 vis_bar(cricket_df, 'over', 10, 20)
 
-# create and save histograms for wicket distribution across categories
+# Create and save histograms for wicket distribution across categories
 
 hist_chart(cricket_df, 'over', 'chart1.png', 'images/')
 ```
