@@ -14,7 +14,7 @@ def dataframe():
     return data
 
 
-#   Test the functionality of the test_separate_columns function.
+# Test the functionality of the test_separate_columns function.
 def test_separate_columns_function(dataframe):
 
     # Call the function being tested
@@ -63,5 +63,44 @@ def test_train_test_split_and_concat():
     # Assert that y_test and y_test_fake are the same
     assert y_test.equals(hp_dc.y_test_fake), "y_test and y_test_fake are not the same"
 
-  
+    # Assert that the data is saved
+    assert os.path.isfile('tests/data/train_data.csv'), "Train data is not saved"
 
+# Test that a type error is raised if the input is not a dataframe
+def test_df_type_error():
+    with pytest.raises(TypeError):
+        separate_columns(hp_dc.list_X), "Input is not a dataframe"
+
+# Test that a value error is raised if the wicket column is not in the df
+def test_wicket_value_error():
+    with pytest.raises(ValueError):
+        separate_columns(hp_dc.X_fake), "Wicket column is not in the dataframe"
+
+# Test that a type error is raised if X is not a dataframe
+def test_X_type_error():
+    with pytest.raises(TypeError):
+        split_and_save_data(hp_dc.dict_X, hp_dc.y_fake), "X is not a dataframe"
+
+# Test that a type error is raised if y is not a dataframe or series
+def test_y_type_error():
+    with pytest.raises(TypeError):
+        split_and_save_data(hp_dc.X_fake, hp_dc.data_y), "y is not a dataframe or series"
+
+# Test that a value error is raised if the train_size passed is less than 0
+def test_train_size_error_less():
+    with pytest.raises(ValueError):
+        split_and_save_data(hp_dc.X_fake, hp_dc.y_fake, train_size=-100), "train_size is not between 0 and 1"
+
+# Test that a value error is raised if the train_size passed is greater than 1
+def test_train_size_error_greater():
+    with pytest.raises(ValueError):
+        split_and_save_data(hp_dc.X_fake, hp_dc.y_fake, train_size=20), "train_size is not between 0 and 1"
+
+# Test that a type error is raised if the file_path given is not a string
+def test_file_path_error():
+    with pytest.raises(TypeError):
+        split_and_save_data(hp_dc.X_fake, hp_dc.y_fake, save_table_path=23), "File path given is not a string"
+
+# Test that a filepath is created when none exists
+def test_file_path_creation():
+    assert os.path.isfile('tests/data/fake_path/train_data.csv'), "Directory not created"
