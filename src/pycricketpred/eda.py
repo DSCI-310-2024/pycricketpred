@@ -113,7 +113,7 @@ def hist_chart(data, col, chart_name, save_path):
         raise KeyError("Column must be in DataFrame")
 
     else:
-        count_wicket = data.groupby(col)['wicket'].count()
+        count_wicket = data.groupby(col)['wicket'].sum()
         chart = count_wicket.plot(kind = 'bar', xlabel=f"{col}", ylabel="Wicket Count")
         fig = chart.get_figure()
         fig.savefig(os.path.join(save_path, chart_name))

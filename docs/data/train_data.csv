@@ -1,0 +1,486 @@
+game_id,season,team,over,batter,batter_id,bowler,bowler_id,non_striker,non_striker_id,wides,noballs,legbyes,byes,player_out,player_out_id,fielders_name,fielders_id,wicket_type,runs_batter,runs_extras,runs_total,team_over,over_ball,inning,runs_cumulative,powerplay,wicket
+211048,2004/05,Australia,0,AC Gilchrist,2b6e6dec,DR Tuffey,43936951,MJ Clarke,f842c2cf,1,0,0,0,,,,,,0,1,1,Australia_0,1,1,1,1,0
+211048,2004/05,Australia,0,AC Gilchrist,2b6e6dec,DR Tuffey,43936951,MJ Clarke,f842c2cf,0,0,1,0,,,,,,0,1,1,Australia_0,2,1,2,1,0
+211048,2004/05,Australia,0,MJ Clarke,f842c2cf,DR Tuffey,43936951,AC Gilchrist,2b6e6dec,0,0,0,0,,,,,,0,0,0,Australia_0,3,1,2,1,0
+211048,2004/05,Australia,0,MJ Clarke,f842c2cf,DR Tuffey,43936951,AC Gilchrist,2b6e6dec,0,0,0,0,,,,,,1,0,1,Australia_0,4,1,3,1,0
+211048,2004/05,Australia,0,AC Gilchrist,2b6e6dec,DR Tuffey,43936951,MJ Clarke,f842c2cf,0,0,0,0,,,,,,1,0,1,Australia_0,5,1,4,1,0
+211048,2004/05,Australia,0,MJ Clarke,f842c2cf,DR Tuffey,43936951,AC Gilchrist,2b6e6dec,0,0,0,0,,,,,,6,0,6,Australia_0,6,1,10,1,0
+211048,2004/05,Australia,0,MJ Clarke,f842c2cf,DR Tuffey,43936951,AC Gilchrist,2b6e6dec,0,0,0,0,MJ Clarke,f842c2cf,CD McMillan,f5390243,caught,0,0,0,Australia_0,7,1,10,1,1
+211048,2004/05,Australia,1,A Symonds,bd77eb62,KD Mills,7fb32e5b,AC Gilchrist,2b6e6dec,0,0,0,0,,,,,,0,0,0,Australia_1,1,1,10,1,0
+211048,2004/05,Australia,1,A Symonds,bd77eb62,KD Mills,7fb32e5b,AC Gilchrist,2b6e6dec,0,0,0,0,,,,,,4,0,4,Australia_1,2,1,14,1,0
+211048,2004/05,Australia,1,A Symonds,bd77eb62,KD Mills,7fb32e5b,AC Gilchrist,2b6e6dec,0,0,0,0,,,,,,6,0,6,Australia_1,3,1,20,1,0
+211048,2004/05,Australia,1,A Symonds,bd77eb62,KD Mills,7fb32e5b,AC Gilchrist,2b6e6dec,0,0,0,0,,,,,,1,0,1,Australia_1,4,1,21,1,0
+211048,2004/05,Australia,1,AC Gilchrist,2b6e6dec,KD Mills,7fb32e5b,A Symonds,bd77eb62,0,0,0,0,AC Gilchrist,2b6e6dec,CD McMillan,f5390243,caught,0,0,0,Australia_1,5,1,21,1,1
+211048,2004/05,Australia,1,RT Ponting,7d415ea5,KD Mills,7fb32e5b,A Symonds,bd77eb62,0,0,0,0,,,,,,1,0,1,Australia_1,6,1,22,1,0
+211048,2004/05,Australia,2,RT Ponting,7d415ea5,DR Tuffey,43936951,A Symonds,bd77eb62,0,0,0,0,,,,,,0,0,0,Australia_2,1,1,22,1,0
+211048,2004/05,Australia,2,RT Ponting,7d415ea5,DR Tuffey,43936951,A Symonds,bd77eb62,0,0,0,0,,,,,,0,0,0,Australia_2,2,1,22,1,0
+211048,2004/05,Australia,2,RT Ponting,7d415ea5,DR Tuffey,43936951,A Symonds,bd77eb62,0,0,1,0,,,,,,0,1,1,Australia_2,3,1,23,1,0
+211048,2004/05,Australia,2,A Symonds,bd77eb62,DR Tuffey,43936951,RT Ponting,7d415ea5,0,0,0,0,,,,,,2,0,2,Australia_2,4,1,25,1,0
+211048,2004/05,Australia,2,A Symonds,bd77eb62,DR Tuffey,43936951,RT Ponting,7d415ea5,0,0,0,0,,,,,,0,0,0,Australia_2,5,1,25,1,0
+211048,2004/05,Australia,2,A Symonds,bd77eb62,DR Tuffey,43936951,RT Ponting,7d415ea5,0,0,0,0,,,,,,1,0,1,Australia_2,6,1,26,1,0
+211048,2004/05,Australia,3,A Symonds,bd77eb62,KD Mills,7fb32e5b,RT Ponting,7d415ea5,0,0,0,0,,,,,,4,0,4,Australia_3,1,1,30,1,0
+211048,2004/05,Australia,3,A Symonds,bd77eb62,KD Mills,7fb32e5b,RT Ponting,7d415ea5,1,0,0,0,,,,,,0,1,1,Australia_3,2,1,31,1,0
+211048,2004/05,Australia,3,A Symonds,bd77eb62,KD Mills,7fb32e5b,RT Ponting,7d415ea5,0,0,0,0,,,,,,6,0,6,Australia_3,3,1,37,1,0
+211048,2004/05,Australia,3,A Symonds,bd77eb62,KD Mills,7fb32e5b,RT Ponting,7d415ea5,0,0,0,0,,,,,,4,0,4,Australia_3,4,1,41,1,0
+211048,2004/05,Australia,3,A Symonds,bd77eb62,KD Mills,7fb32e5b,RT Ponting,7d415ea5,0,0,0,0,,,,,,4,0,4,Australia_3,5,1,45,1,0
+211048,2004/05,Australia,3,A Symonds,bd77eb62,KD Mills,7fb32e5b,RT Ponting,7d415ea5,0,0,0,0,,,,,,0,0,0,Australia_3,6,1,45,1,0
+211048,2004/05,Australia,3,A Symonds,bd77eb62,KD Mills,7fb32e5b,RT Ponting,7d415ea5,1,0,0,0,,,,,,0,1,1,Australia_3,7,1,46,1,0
+211048,2004/05,Australia,3,A Symonds,bd77eb62,KD Mills,7fb32e5b,RT Ponting,7d415ea5,0,0,0,0,A Symonds,bd77eb62,BB McCullum,b8a55852,caught,0,0,0,Australia_3,8,1,46,1,1
+211048,2004/05,Australia,4,RT Ponting,7d415ea5,DR Tuffey,43936951,DR Martyn,69762509,0,0,0,0,,,,,,4,0,4,Australia_4,1,1,50,1,0
+211048,2004/05,Australia,4,RT Ponting,7d415ea5,DR Tuffey,43936951,DR Martyn,69762509,0,0,0,0,,,,,,1,0,1,Australia_4,2,1,51,1,0
+211048,2004/05,Australia,4,DR Martyn,69762509,DR Tuffey,43936951,RT Ponting,7d415ea5,0,0,0,0,,,,,,0,0,0,Australia_4,3,1,51,1,0
+211048,2004/05,Australia,4,DR Martyn,69762509,DR Tuffey,43936951,RT Ponting,7d415ea5,0,0,0,0,,,,,,0,0,0,Australia_4,4,1,51,1,0
+211048,2004/05,Australia,4,DR Martyn,69762509,DR Tuffey,43936951,RT Ponting,7d415ea5,0,0,0,0,,,,,,2,0,2,Australia_4,5,1,53,1,0
+211048,2004/05,Australia,4,DR Martyn,69762509,DR Tuffey,43936951,RT Ponting,7d415ea5,0,0,0,0,,,,,,1,0,1,Australia_4,6,1,54,1,0
+211048,2004/05,Australia,5,DR Martyn,69762509,KD Mills,7fb32e5b,RT Ponting,7d415ea5,0,0,0,0,DR Martyn,69762509,,,bowled,0,0,0,Australia_5,1,1,54,1,1
+211048,2004/05,Australia,5,SM Katich,fdedb37c,KD Mills,7fb32e5b,RT Ponting,7d415ea5,0,0,0,0,,,,,,1,0,1,Australia_5,2,1,55,1,0
+211048,2004/05,Australia,5,RT Ponting,7d415ea5,KD Mills,7fb32e5b,SM Katich,fdedb37c,0,0,0,0,,,,,,1,0,1,Australia_5,3,1,56,1,0
+211048,2004/05,Australia,5,SM Katich,fdedb37c,KD Mills,7fb32e5b,RT Ponting,7d415ea5,0,0,0,0,,,,,,1,0,1,Australia_5,4,1,57,1,0
+211048,2004/05,Australia,5,RT Ponting,7d415ea5,KD Mills,7fb32e5b,SM Katich,fdedb37c,0,0,0,0,,,,,,0,0,0,Australia_5,5,1,57,1,0
+211048,2004/05,Australia,5,RT Ponting,7d415ea5,KD Mills,7fb32e5b,SM Katich,fdedb37c,0,0,0,0,,,,,,1,0,1,Australia_5,6,1,58,1,0
+211048,2004/05,Australia,6,RT Ponting,7d415ea5,CL Cairns,0b130202,SM Katich,fdedb37c,0,0,0,0,,,,,,1,0,1,Australia_6,1,1,59,0,0
+211048,2004/05,Australia,6,SM Katich,fdedb37c,CL Cairns,0b130202,RT Ponting,7d415ea5,0,0,0,0,,,,,,1,0,1,Australia_6,2,1,60,0,0
+211048,2004/05,Australia,6,RT Ponting,7d415ea5,CL Cairns,0b130202,SM Katich,fdedb37c,0,0,0,0,,,,,,1,0,1,Australia_6,3,1,61,0,0
+211048,2004/05,Australia,6,SM Katich,fdedb37c,CL Cairns,0b130202,RT Ponting,7d415ea5,0,0,0,0,,,,,,1,0,1,Australia_6,4,1,62,0,0
+211048,2004/05,Australia,6,RT Ponting,7d415ea5,CL Cairns,0b130202,SM Katich,fdedb37c,0,0,0,0,,,,,,1,0,1,Australia_6,5,1,63,0,0
+211048,2004/05,Australia,6,SM Katich,fdedb37c,CL Cairns,0b130202,RT Ponting,7d415ea5,0,0,0,0,,,,,,1,0,1,Australia_6,6,1,64,0,0
+211048,2004/05,Australia,7,SM Katich,fdedb37c,KD Mills,7fb32e5b,RT Ponting,7d415ea5,0,0,0,0,,,,,,0,0,0,Australia_7,1,1,64,0,0
+211048,2004/05,Australia,7,SM Katich,fdedb37c,KD Mills,7fb32e5b,RT Ponting,7d415ea5,0,0,0,0,,,,,,1,0,1,Australia_7,2,1,65,0,0
+211048,2004/05,Australia,7,RT Ponting,7d415ea5,KD Mills,7fb32e5b,SM Katich,fdedb37c,0,0,0,0,,,,,,4,0,4,Australia_7,3,1,69,0,0
+211048,2004/05,Australia,7,RT Ponting,7d415ea5,KD Mills,7fb32e5b,SM Katich,fdedb37c,0,0,0,0,,,,,,1,0,1,Australia_7,4,1,70,0,0
+211048,2004/05,Australia,7,SM Katich,fdedb37c,KD Mills,7fb32e5b,RT Ponting,7d415ea5,0,0,0,0,,,,,,1,0,1,Australia_7,5,1,71,0,0
+211048,2004/05,Australia,7,RT Ponting,7d415ea5,KD Mills,7fb32e5b,SM Katich,fdedb37c,0,0,0,0,,,,,,1,0,1,Australia_7,6,1,72,0,0
+211048,2004/05,Australia,8,RT Ponting,7d415ea5,CL Cairns,0b130202,SM Katich,fdedb37c,0,0,0,0,,,,,,1,0,1,Australia_8,1,1,73,0,0
+211048,2004/05,Australia,8,SM Katich,fdedb37c,CL Cairns,0b130202,RT Ponting,7d415ea5,0,0,0,0,,,,,,0,0,0,Australia_8,2,1,73,0,0
+211048,2004/05,Australia,8,SM Katich,fdedb37c,CL Cairns,0b130202,RT Ponting,7d415ea5,0,0,0,0,,,,,,1,0,1,Australia_8,3,1,74,0,0
+211048,2004/05,Australia,8,RT Ponting,7d415ea5,CL Cairns,0b130202,SM Katich,fdedb37c,0,0,0,0,,,,,,4,0,4,Australia_8,4,1,78,0,0
+211048,2004/05,Australia,8,RT Ponting,7d415ea5,CL Cairns,0b130202,SM Katich,fdedb37c,0,0,0,0,,,,,,0,0,0,Australia_8,5,1,78,0,0
+211048,2004/05,Australia,8,RT Ponting,7d415ea5,CL Cairns,0b130202,SM Katich,fdedb37c,0,0,0,0,,,,,,1,0,1,Australia_8,6,1,79,0,0
+211048,2004/05,Australia,9,RT Ponting,7d415ea5,JW Wilson,91c984a1,SM Katich,fdedb37c,0,0,0,0,,,,,,4,0,4,Australia_9,1,1,83,0,0
+211048,2004/05,Australia,9,RT Ponting,7d415ea5,JW Wilson,91c984a1,SM Katich,fdedb37c,0,0,0,0,,,,,,1,0,1,Australia_9,2,1,84,0,0
+211048,2004/05,Australia,9,SM Katich,fdedb37c,JW Wilson,91c984a1,RT Ponting,7d415ea5,0,0,0,0,,,,,,1,0,1,Australia_9,3,1,85,0,0
+211048,2004/05,Australia,9,RT Ponting,7d415ea5,JW Wilson,91c984a1,SM Katich,fdedb37c,0,0,0,0,,,,,,1,0,1,Australia_9,4,1,86,0,0
+211048,2004/05,Australia,9,SM Katich,fdedb37c,JW Wilson,91c984a1,RT Ponting,7d415ea5,0,0,0,0,,,,,,1,0,1,Australia_9,5,1,87,0,0
+211048,2004/05,Australia,9,RT Ponting,7d415ea5,JW Wilson,91c984a1,SM Katich,fdedb37c,0,0,0,0,,,,,,2,0,2,Australia_9,6,1,89,0,0
+211048,2004/05,Australia,10,SM Katich,fdedb37c,AR Adams,525c3f54,RT Ponting,7d415ea5,0,0,0,0,,,,,,1,0,1,Australia_10,1,1,90,0,0
+211048,2004/05,Australia,10,RT Ponting,7d415ea5,AR Adams,525c3f54,SM Katich,fdedb37c,0,0,0,0,,,,,,1,0,1,Australia_10,2,1,91,0,0
+211048,2004/05,Australia,10,SM Katich,fdedb37c,AR Adams,525c3f54,RT Ponting,7d415ea5,0,0,0,0,,,,,,1,0,1,Australia_10,3,1,92,0,0
+211048,2004/05,Australia,10,RT Ponting,7d415ea5,AR Adams,525c3f54,SM Katich,fdedb37c,0,0,0,0,,,,,,0,0,0,Australia_10,4,1,92,0,0
+211048,2004/05,Australia,10,RT Ponting,7d415ea5,AR Adams,525c3f54,SM Katich,fdedb37c,0,0,0,0,,,,,,0,0,0,Australia_10,5,1,92,0,0
+211048,2004/05,Australia,10,RT Ponting,7d415ea5,AR Adams,525c3f54,SM Katich,fdedb37c,0,0,0,0,,,,,,2,0,2,Australia_10,6,1,94,0,0
+211048,2004/05,Australia,11,SM Katich,fdedb37c,JW Wilson,91c984a1,RT Ponting,7d415ea5,0,0,0,0,,,,,,6,0,6,Australia_11,1,1,100,0,0
+211048,2004/05,Australia,11,SM Katich,fdedb37c,JW Wilson,91c984a1,RT Ponting,7d415ea5,0,0,0,0,,,,,,0,0,0,Australia_11,2,1,100,0,0
+211048,2004/05,Australia,11,SM Katich,fdedb37c,JW Wilson,91c984a1,RT Ponting,7d415ea5,0,0,0,0,,,,,,4,0,4,Australia_11,3,1,104,0,0
+211048,2004/05,Australia,11,SM Katich,fdedb37c,JW Wilson,91c984a1,RT Ponting,7d415ea5,0,0,0,0,,,,,,4,0,4,Australia_11,4,1,108,0,0
+211048,2004/05,Australia,11,SM Katich,fdedb37c,JW Wilson,91c984a1,RT Ponting,7d415ea5,0,0,0,0,,,,,,0,0,0,Australia_11,5,1,108,0,0
+211048,2004/05,Australia,11,SM Katich,fdedb37c,JW Wilson,91c984a1,RT Ponting,7d415ea5,0,0,1,0,,,,,,0,1,1,Australia_11,6,1,109,0,0
+211048,2004/05,Australia,12,SM Katich,fdedb37c,AR Adams,525c3f54,RT Ponting,7d415ea5,0,0,0,0,,,,,,0,0,0,Australia_12,1,1,109,0,0
+211048,2004/05,Australia,12,SM Katich,fdedb37c,AR Adams,525c3f54,RT Ponting,7d415ea5,0,0,0,0,,,,,,1,0,1,Australia_12,2,1,110,0,0
+211048,2004/05,Australia,12,RT Ponting,7d415ea5,AR Adams,525c3f54,SM Katich,fdedb37c,0,0,0,0,,,,,,4,0,4,Australia_12,3,1,114,0,0
+211048,2004/05,Australia,12,RT Ponting,7d415ea5,AR Adams,525c3f54,SM Katich,fdedb37c,0,0,0,0,,,,,,1,0,1,Australia_12,4,1,115,0,0
+211048,2004/05,Australia,12,SM Katich,fdedb37c,AR Adams,525c3f54,RT Ponting,7d415ea5,0,0,0,0,,,,,,1,0,1,Australia_12,5,1,116,0,0
+211048,2004/05,Australia,12,RT Ponting,7d415ea5,AR Adams,525c3f54,SM Katich,fdedb37c,0,0,0,0,,,,,,1,0,1,Australia_12,6,1,117,0,0
+211048,2004/05,Australia,13,RT Ponting,7d415ea5,JW Wilson,91c984a1,SM Katich,fdedb37c,0,0,0,0,,,,,,2,0,2,Australia_13,1,1,119,0,0
+211048,2004/05,Australia,13,RT Ponting,7d415ea5,JW Wilson,91c984a1,SM Katich,fdedb37c,0,0,4,0,,,,,,0,4,4,Australia_13,2,1,123,0,0
+211048,2004/05,Australia,13,RT Ponting,7d415ea5,JW Wilson,91c984a1,SM Katich,fdedb37c,0,0,0,0,,,,,,4,0,4,Australia_13,3,1,127,0,0
+211048,2004/05,Australia,13,RT Ponting,7d415ea5,JW Wilson,91c984a1,SM Katich,fdedb37c,0,0,0,0,,,,,,0,0,0,Australia_13,4,1,127,0,0
+211048,2004/05,Australia,13,RT Ponting,7d415ea5,JW Wilson,91c984a1,SM Katich,fdedb37c,0,0,0,0,,,,,,6,0,6,Australia_13,5,1,133,0,0
+211048,2004/05,Australia,13,RT Ponting,7d415ea5,JW Wilson,91c984a1,SM Katich,fdedb37c,0,0,0,0,,,,,,1,0,1,Australia_13,6,1,134,0,0
+211048,2004/05,Australia,14,RT Ponting,7d415ea5,CL Cairns,0b130202,SM Katich,fdedb37c,0,0,0,0,,,,,,1,0,1,Australia_14,1,1,135,0,0
+211048,2004/05,Australia,14,SM Katich,fdedb37c,CL Cairns,0b130202,RT Ponting,7d415ea5,0,0,0,0,,,,,,2,0,2,Australia_14,2,1,137,0,0
+211048,2004/05,Australia,14,SM Katich,fdedb37c,CL Cairns,0b130202,RT Ponting,7d415ea5,0,0,0,0,SM Katich,fdedb37c,,,bowled,0,0,0,Australia_14,3,1,137,0,1
+211048,2004/05,Australia,14,MEK Hussey,48fd7349,CL Cairns,0b130202,RT Ponting,7d415ea5,0,0,0,0,,,,,,1,0,1,Australia_14,4,1,138,0,0
+211048,2004/05,Australia,14,RT Ponting,7d415ea5,CL Cairns,0b130202,MEK Hussey,48fd7349,0,0,0,0,,,,,,2,0,2,Australia_14,5,1,140,0,0
+211048,2004/05,Australia,14,RT Ponting,7d415ea5,CL Cairns,0b130202,MEK Hussey,48fd7349,0,0,0,0,,,,,,1,0,1,Australia_14,6,1,141,0,0
+211048,2004/05,Australia,15,RT Ponting,7d415ea5,JW Wilson,91c984a1,MEK Hussey,48fd7349,0,0,0,0,,,,,,1,0,1,Australia_15,1,1,142,0,0
+211048,2004/05,Australia,15,MEK Hussey,48fd7349,JW Wilson,91c984a1,RT Ponting,7d415ea5,0,0,0,0,,,,,,2,0,2,Australia_15,2,1,144,0,0
+211048,2004/05,Australia,15,MEK Hussey,48fd7349,JW Wilson,91c984a1,RT Ponting,7d415ea5,0,0,0,0,,,,,,0,0,0,Australia_15,3,1,144,0,0
+211048,2004/05,Australia,15,MEK Hussey,48fd7349,JW Wilson,91c984a1,RT Ponting,7d415ea5,0,0,0,0,,,,,,1,0,1,Australia_15,4,1,145,0,0
+211048,2004/05,Australia,15,RT Ponting,7d415ea5,JW Wilson,91c984a1,MEK Hussey,48fd7349,0,0,0,0,,,,,,1,0,1,Australia_15,5,1,146,0,0
+211048,2004/05,Australia,15,MEK Hussey,48fd7349,JW Wilson,91c984a1,RT Ponting,7d415ea5,0,0,0,0,,,,,,1,0,1,Australia_15,6,1,147,0,0
+211048,2004/05,Australia,16,MEK Hussey,48fd7349,CL Cairns,0b130202,RT Ponting,7d415ea5,0,0,0,0,,,,,,1,0,1,Australia_16,1,1,148,0,0
+211048,2004/05,Australia,16,RT Ponting,7d415ea5,CL Cairns,0b130202,MEK Hussey,48fd7349,0,0,0,0,,,,,,1,0,1,Australia_16,2,1,149,0,0
+211048,2004/05,Australia,16,MEK Hussey,48fd7349,CL Cairns,0b130202,RT Ponting,7d415ea5,0,0,0,0,,,,,,1,0,1,Australia_16,3,1,150,0,0
+211048,2004/05,Australia,16,RT Ponting,7d415ea5,CL Cairns,0b130202,MEK Hussey,48fd7349,0,0,0,0,,,,,,0,0,0,Australia_16,4,1,150,0,0
+211048,2004/05,Australia,16,RT Ponting,7d415ea5,CL Cairns,0b130202,MEK Hussey,48fd7349,0,0,0,0,,,,,,1,0,1,Australia_16,5,1,151,0,0
+211048,2004/05,Australia,16,MEK Hussey,48fd7349,CL Cairns,0b130202,RT Ponting,7d415ea5,0,0,0,0,,,,,,4,0,4,Australia_16,6,1,155,0,0
+211048,2004/05,Australia,17,RT Ponting,7d415ea5,AR Adams,525c3f54,MEK Hussey,48fd7349,0,0,0,0,,,,,,1,0,1,Australia_17,1,1,156,0,0
+211048,2004/05,Australia,17,MEK Hussey,48fd7349,AR Adams,525c3f54,RT Ponting,7d415ea5,0,0,0,0,,,,,,1,0,1,Australia_17,2,1,157,0,0
+211048,2004/05,Australia,17,RT Ponting,7d415ea5,AR Adams,525c3f54,MEK Hussey,48fd7349,0,0,0,0,,,,,,1,0,1,Australia_17,3,1,158,0,0
+211048,2004/05,Australia,17,MEK Hussey,48fd7349,AR Adams,525c3f54,RT Ponting,7d415ea5,0,0,0,0,,,,,,0,0,0,Australia_17,4,1,158,0,0
+211048,2004/05,Australia,17,MEK Hussey,48fd7349,AR Adams,525c3f54,RT Ponting,7d415ea5,0,0,0,0,,,,,,6,0,6,Australia_17,5,1,164,0,0
+211048,2004/05,Australia,17,MEK Hussey,48fd7349,AR Adams,525c3f54,RT Ponting,7d415ea5,0,0,0,0,,,,,,6,0,6,Australia_17,6,1,170,0,0
+211048,2004/05,Australia,18,RT Ponting,7d415ea5,DR Tuffey,43936951,MEK Hussey,48fd7349,0,0,0,0,,,,,,6,0,6,Australia_18,1,1,176,0,0
+211048,2004/05,Australia,18,RT Ponting,7d415ea5,DR Tuffey,43936951,MEK Hussey,48fd7349,0,0,0,0,,,,,,2,0,2,Australia_18,2,1,178,0,0
+211048,2004/05,Australia,18,RT Ponting,7d415ea5,DR Tuffey,43936951,MEK Hussey,48fd7349,0,0,0,0,,,,,,6,0,6,Australia_18,3,1,184,0,0
+211048,2004/05,Australia,18,RT Ponting,7d415ea5,DR Tuffey,43936951,MEK Hussey,48fd7349,0,0,0,0,,,,,,6,0,6,Australia_18,4,1,190,0,0
+211048,2004/05,Australia,18,RT Ponting,7d415ea5,DR Tuffey,43936951,MEK Hussey,48fd7349,0,0,0,0,,,,,,4,0,4,Australia_18,5,1,194,0,0
+211048,2004/05,Australia,18,RT Ponting,7d415ea5,DR Tuffey,43936951,MEK Hussey,48fd7349,0,0,0,0,,,,,,6,0,6,Australia_18,6,1,200,0,0
+211048,2004/05,Australia,19,MEK Hussey,48fd7349,AR Adams,525c3f54,RT Ponting,7d415ea5,0,0,0,0,,,,,,1,0,1,Australia_19,1,1,201,0,0
+211048,2004/05,Australia,19,RT Ponting,7d415ea5,AR Adams,525c3f54,MEK Hussey,48fd7349,0,0,0,0,,,,,,4,0,4,Australia_19,2,1,205,0,0
+211048,2004/05,Australia,19,RT Ponting,7d415ea5,AR Adams,525c3f54,MEK Hussey,48fd7349,0,0,2,0,,,,,,0,2,2,Australia_19,3,1,207,0,0
+211048,2004/05,Australia,19,RT Ponting,7d415ea5,AR Adams,525c3f54,MEK Hussey,48fd7349,0,0,0,0,,,,,,1,0,1,Australia_19,4,1,208,0,0
+211048,2004/05,Australia,19,MEK Hussey,48fd7349,AR Adams,525c3f54,RT Ponting,7d415ea5,0,0,0,0,,,,,,6,0,6,Australia_19,5,1,214,0,0
+211048,2004/05,Australia,19,MEK Hussey,48fd7349,AR Adams,525c3f54,RT Ponting,7d415ea5,0,0,0,0,,,,,,0,0,0,Australia_19,6,1,214,0,0
+211048,2004/05,New Zealand,0,BB McCullum,b8a55852,B Lee,dd09ff8e,SP Fleming,eea6b7f1,0,0,0,0,,,,,,0,0,0,New Zealand_0,1,2,0,1,0
+211048,2004/05,New Zealand,0,BB McCullum,b8a55852,B Lee,dd09ff8e,SP Fleming,eea6b7f1,0,0,0,0,,,,,,0,0,0,New Zealand_0,2,2,0,1,0
+211048,2004/05,New Zealand,0,BB McCullum,b8a55852,B Lee,dd09ff8e,SP Fleming,eea6b7f1,0,0,0,0,,,,,,1,0,1,New Zealand_0,3,2,1,1,0
+211048,2004/05,New Zealand,0,SP Fleming,eea6b7f1,B Lee,dd09ff8e,BB McCullum,b8a55852,0,0,0,0,,,,,,0,0,0,New Zealand_0,4,2,1,1,0
+211048,2004/05,New Zealand,0,SP Fleming,eea6b7f1,B Lee,dd09ff8e,BB McCullum,b8a55852,0,0,0,0,,,,,,1,0,1,New Zealand_0,5,2,2,1,0
+211048,2004/05,New Zealand,0,BB McCullum,b8a55852,B Lee,dd09ff8e,SP Fleming,eea6b7f1,0,0,0,0,,,,,,0,0,0,New Zealand_0,6,2,2,1,0
+211048,2004/05,New Zealand,1,SP Fleming,eea6b7f1,GD McGrath,ee7d0c82,BB McCullum,b8a55852,0,0,0,0,,,,,,4,0,4,New Zealand_1,1,2,6,1,0
+211048,2004/05,New Zealand,1,SP Fleming,eea6b7f1,GD McGrath,ee7d0c82,BB McCullum,b8a55852,0,0,0,0,,,,,,1,0,1,New Zealand_1,2,2,7,1,0
+211048,2004/05,New Zealand,1,BB McCullum,b8a55852,GD McGrath,ee7d0c82,SP Fleming,eea6b7f1,0,0,0,0,,,,,,1,0,1,New Zealand_1,3,2,8,1,0
+211048,2004/05,New Zealand,1,SP Fleming,eea6b7f1,GD McGrath,ee7d0c82,BB McCullum,b8a55852,0,0,0,0,,,,,,2,0,2,New Zealand_1,4,2,10,1,0
+211048,2004/05,New Zealand,1,SP Fleming,eea6b7f1,GD McGrath,ee7d0c82,BB McCullum,b8a55852,0,0,0,0,,,,,,1,0,1,New Zealand_1,5,2,11,1,0
+211048,2004/05,New Zealand,1,BB McCullum,b8a55852,GD McGrath,ee7d0c82,SP Fleming,eea6b7f1,0,0,0,0,,,,,,1,0,1,New Zealand_1,6,2,12,1,0
+211048,2004/05,New Zealand,2,BB McCullum,b8a55852,B Lee,dd09ff8e,SP Fleming,eea6b7f1,0,0,0,0,,,,,,0,0,0,New Zealand_2,1,2,12,1,0
+211048,2004/05,New Zealand,2,BB McCullum,b8a55852,B Lee,dd09ff8e,SP Fleming,eea6b7f1,0,0,0,0,,,,,,0,0,0,New Zealand_2,2,2,12,1,0
+211048,2004/05,New Zealand,2,BB McCullum,b8a55852,B Lee,dd09ff8e,SP Fleming,eea6b7f1,0,0,0,0,,,,,,1,0,1,New Zealand_2,3,2,13,1,0
+211048,2004/05,New Zealand,2,SP Fleming,eea6b7f1,B Lee,dd09ff8e,BB McCullum,b8a55852,0,0,0,0,,,,,,0,0,0,New Zealand_2,4,2,13,1,0
+211048,2004/05,New Zealand,2,SP Fleming,eea6b7f1,B Lee,dd09ff8e,BB McCullum,b8a55852,0,0,0,0,,,,,,4,0,4,New Zealand_2,5,2,17,1,0
+211048,2004/05,New Zealand,2,SP Fleming,eea6b7f1,B Lee,dd09ff8e,BB McCullum,b8a55852,0,0,0,0,,,,,,4,0,4,New Zealand_2,6,2,21,1,0
+211048,2004/05,New Zealand,3,BB McCullum,b8a55852,GD McGrath,ee7d0c82,SP Fleming,eea6b7f1,0,0,0,0,,,,,,4,0,4,New Zealand_3,1,2,25,1,0
+211048,2004/05,New Zealand,3,BB McCullum,b8a55852,GD McGrath,ee7d0c82,SP Fleming,eea6b7f1,0,0,0,0,,,,,,0,0,0,New Zealand_3,2,2,25,1,0
+211048,2004/05,New Zealand,3,BB McCullum,b8a55852,GD McGrath,ee7d0c82,SP Fleming,eea6b7f1,0,0,0,0,,,,,,4,0,4,New Zealand_3,3,2,29,1,0
+211048,2004/05,New Zealand,3,BB McCullum,b8a55852,GD McGrath,ee7d0c82,SP Fleming,eea6b7f1,0,0,0,0,,,,,,6,0,6,New Zealand_3,4,2,35,1,0
+211048,2004/05,New Zealand,3,BB McCullum,b8a55852,GD McGrath,ee7d0c82,SP Fleming,eea6b7f1,0,0,0,0,,,,,,1,0,1,New Zealand_3,5,2,36,1,0
+211048,2004/05,New Zealand,3,SP Fleming,eea6b7f1,GD McGrath,ee7d0c82,BB McCullum,b8a55852,0,0,0,0,,,,,,0,0,0,New Zealand_3,6,2,36,1,0
+211048,2004/05,New Zealand,4,BB McCullum,b8a55852,B Lee,dd09ff8e,SP Fleming,eea6b7f1,0,0,0,0,,,,,,0,0,0,New Zealand_4,1,2,36,1,0
+211048,2004/05,New Zealand,4,BB McCullum,b8a55852,B Lee,dd09ff8e,SP Fleming,eea6b7f1,0,0,0,0,,,,,,3,0,3,New Zealand_4,2,2,39,1,0
+211048,2004/05,New Zealand,4,SP Fleming,eea6b7f1,B Lee,dd09ff8e,BB McCullum,b8a55852,0,0,0,0,,,,,,0,0,0,New Zealand_4,3,2,39,1,0
+211048,2004/05,New Zealand,4,SP Fleming,eea6b7f1,B Lee,dd09ff8e,BB McCullum,b8a55852,0,0,0,0,,,,,,1,0,1,New Zealand_4,4,2,40,1,0
+211048,2004/05,New Zealand,4,BB McCullum,b8a55852,B Lee,dd09ff8e,SP Fleming,eea6b7f1,1,0,0,0,,,,,,0,1,1,New Zealand_4,5,2,41,1,0
+211048,2004/05,New Zealand,4,BB McCullum,b8a55852,B Lee,dd09ff8e,SP Fleming,eea6b7f1,0,0,0,0,,,,,,4,0,4,New Zealand_4,6,2,45,1,0
+211048,2004/05,New Zealand,4,BB McCullum,b8a55852,B Lee,dd09ff8e,SP Fleming,eea6b7f1,0,0,0,0,,,,,,4,0,4,New Zealand_4,7,2,49,1,0
+211048,2004/05,New Zealand,5,SP Fleming,eea6b7f1,MS Kasprowicz,8d0ea930,BB McCullum,b8a55852,0,0,0,0,SP Fleming,eea6b7f1,,,bowled,0,0,0,New Zealand_5,1,2,49,1,1
+211048,2004/05,New Zealand,5,MS Sinclair,1b668884,MS Kasprowicz,8d0ea930,BB McCullum,b8a55852,0,0,0,0,MS Sinclair,1b668884,SM Katich,fdedb37c,caught,0,0,0,New Zealand_5,2,2,49,1,1
+211048,2004/05,New Zealand,5,BB McCullum,b8a55852,MS Kasprowicz,8d0ea930,SB Styris,57efa3be,0,0,0,0,,,,,,0,0,0,New Zealand_5,3,2,49,1,0
+211048,2004/05,New Zealand,5,BB McCullum,b8a55852,MS Kasprowicz,8d0ea930,SB Styris,57efa3be,0,0,0,0,,,,,,1,0,1,New Zealand_5,4,2,50,1,0
+211048,2004/05,New Zealand,5,SB Styris,57efa3be,MS Kasprowicz,8d0ea930,BB McCullum,b8a55852,0,0,0,0,,,,,,2,0,2,New Zealand_5,5,2,52,1,0
+211048,2004/05,New Zealand,5,SB Styris,57efa3be,MS Kasprowicz,8d0ea930,BB McCullum,b8a55852,0,0,0,0,,,,,,0,0,0,New Zealand_5,6,2,52,1,0
+211048,2004/05,New Zealand,6,BB McCullum,b8a55852,JR Hopes,2498e163,SB Styris,57efa3be,0,0,0,0,,,,,,0,0,0,New Zealand_6,1,2,52,0,0
+211048,2004/05,New Zealand,6,BB McCullum,b8a55852,JR Hopes,2498e163,SB Styris,57efa3be,0,0,0,0,,,,,,1,0,1,New Zealand_6,2,2,53,0,0
+211048,2004/05,New Zealand,6,SB Styris,57efa3be,JR Hopes,2498e163,BB McCullum,b8a55852,0,0,0,0,,,,,,2,0,2,New Zealand_6,3,2,55,0,0
+211048,2004/05,New Zealand,6,SB Styris,57efa3be,JR Hopes,2498e163,BB McCullum,b8a55852,0,0,0,0,,,,,,6,0,6,New Zealand_6,4,2,61,0,0
+211048,2004/05,New Zealand,6,SB Styris,57efa3be,JR Hopes,2498e163,BB McCullum,b8a55852,0,0,0,0,,,,,,2,0,2,New Zealand_6,5,2,63,0,0
+211048,2004/05,New Zealand,6,SB Styris,57efa3be,JR Hopes,2498e163,BB McCullum,b8a55852,0,0,0,0,,,,,,0,0,0,New Zealand_6,6,2,63,0,0
+211048,2004/05,New Zealand,7,BB McCullum,b8a55852,MS Kasprowicz,8d0ea930,SB Styris,57efa3be,0,0,0,0,,,,,,4,0,4,New Zealand_7,1,2,67,0,0
+211048,2004/05,New Zealand,7,BB McCullum,b8a55852,MS Kasprowicz,8d0ea930,SB Styris,57efa3be,0,0,0,0,BB McCullum,b8a55852,RT Ponting,7d415ea5,caught,0,0,0,New Zealand_7,2,2,67,0,1
+211048,2004/05,New Zealand,7,CD McMillan,f5390243,MS Kasprowicz,8d0ea930,SB Styris,57efa3be,1,0,0,0,,,,,,0,1,1,New Zealand_7,3,2,68,0,0
+211048,2004/05,New Zealand,7,CD McMillan,f5390243,MS Kasprowicz,8d0ea930,SB Styris,57efa3be,0,0,0,0,,,,,,0,0,0,New Zealand_7,4,2,68,0,0
+211048,2004/05,New Zealand,7,CD McMillan,f5390243,MS Kasprowicz,8d0ea930,SB Styris,57efa3be,0,0,0,0,,,,,,1,0,1,New Zealand_7,5,2,69,0,0
+211048,2004/05,New Zealand,7,SB Styris,57efa3be,MS Kasprowicz,8d0ea930,CD McMillan,f5390243,0,0,0,0,,,,,,1,0,1,New Zealand_7,6,2,70,0,0
+211048,2004/05,New Zealand,7,CD McMillan,f5390243,MS Kasprowicz,8d0ea930,SB Styris,57efa3be,0,0,0,0,,,,,,6,0,6,New Zealand_7,7,2,76,0,0
+211048,2004/05,New Zealand,8,SB Styris,57efa3be,JR Hopes,2498e163,CD McMillan,f5390243,0,0,0,0,,,,,,2,0,2,New Zealand_8,1,2,78,0,0
+211048,2004/05,New Zealand,8,SB Styris,57efa3be,JR Hopes,2498e163,CD McMillan,f5390243,0,0,0,0,,,,,,0,0,0,New Zealand_8,2,2,78,0,0
+211048,2004/05,New Zealand,8,SB Styris,57efa3be,JR Hopes,2498e163,CD McMillan,f5390243,0,0,0,0,,,,,,4,0,4,New Zealand_8,3,2,82,0,0
+211048,2004/05,New Zealand,8,SB Styris,57efa3be,JR Hopes,2498e163,CD McMillan,f5390243,0,0,0,0,,,,,,1,0,1,New Zealand_8,4,2,83,0,0
+211048,2004/05,New Zealand,8,CD McMillan,f5390243,JR Hopes,2498e163,SB Styris,57efa3be,0,0,0,0,,,,,,1,0,1,New Zealand_8,5,2,84,0,0
+211048,2004/05,New Zealand,8,SB Styris,57efa3be,JR Hopes,2498e163,CD McMillan,f5390243,0,0,0,0,,,,,,1,0,1,New Zealand_8,6,2,85,0,0
+211048,2004/05,New Zealand,9,SB Styris,57efa3be,MS Kasprowicz,8d0ea930,CD McMillan,f5390243,0,0,0,0,,,,,,1,0,1,New Zealand_9,1,2,86,0,0
+211048,2004/05,New Zealand,9,CD McMillan,f5390243,MS Kasprowicz,8d0ea930,SB Styris,57efa3be,0,0,0,0,,,,,,0,0,0,New Zealand_9,2,2,86,0,0
+211048,2004/05,New Zealand,9,CD McMillan,f5390243,MS Kasprowicz,8d0ea930,SB Styris,57efa3be,0,0,0,0,,,,,,1,0,1,New Zealand_9,3,2,87,0,0
+211048,2004/05,New Zealand,9,SB Styris,57efa3be,MS Kasprowicz,8d0ea930,CD McMillan,f5390243,0,0,0,0,,,,,,4,0,4,New Zealand_9,4,2,91,0,0
+211048,2004/05,New Zealand,9,SB Styris,57efa3be,MS Kasprowicz,8d0ea930,CD McMillan,f5390243,0,0,0,0,,,,,,1,0,1,New Zealand_9,5,2,92,0,0
+211048,2004/05,New Zealand,9,CD McMillan,f5390243,MS Kasprowicz,8d0ea930,SB Styris,57efa3be,0,0,0,0,,,,,,0,0,0,New Zealand_9,6,2,92,0,0
+211048,2004/05,New Zealand,10,SB Styris,57efa3be,JR Hopes,2498e163,CD McMillan,f5390243,0,0,0,0,,,,,,1,0,1,New Zealand_10,1,2,93,0,0
+211048,2004/05,New Zealand,10,CD McMillan,f5390243,JR Hopes,2498e163,SB Styris,57efa3be,0,0,0,0,CD McMillan,f5390243,MEK Hussey,48fd7349,caught,0,0,0,New Zealand_10,2,2,93,0,1
+211048,2004/05,New Zealand,10,SB Styris,57efa3be,JR Hopes,2498e163,CL Cairns,0b130202,0,0,0,0,,,,,,1,0,1,New Zealand_10,3,2,94,0,0
+211048,2004/05,New Zealand,10,CL Cairns,0b130202,JR Hopes,2498e163,SB Styris,57efa3be,0,0,0,0,,,,,,0,0,0,New Zealand_10,4,2,94,0,0
+211048,2004/05,New Zealand,10,CL Cairns,0b130202,JR Hopes,2498e163,SB Styris,57efa3be,0,0,0,0,,,,,,0,0,0,New Zealand_10,5,2,94,0,0
+211048,2004/05,New Zealand,10,CL Cairns,0b130202,JR Hopes,2498e163,SB Styris,57efa3be,0,0,0,0,,,,,,1,0,1,New Zealand_10,6,2,95,0,0
+211048,2004/05,New Zealand,11,CL Cairns,0b130202,MS Kasprowicz,8d0ea930,SB Styris,57efa3be,0,0,0,0,CL Cairns,0b130202,GD McGrath,ee7d0c82,caught,0,0,0,New Zealand_11,1,2,95,0,1
+211048,2004/05,New Zealand,11,SB Styris,57efa3be,MS Kasprowicz,8d0ea930,HJH Marshall,70542bef,0,0,0,0,,,,,,1,0,1,New Zealand_11,2,2,96,0,0
+211048,2004/05,New Zealand,11,HJH Marshall,70542bef,MS Kasprowicz,8d0ea930,SB Styris,57efa3be,0,0,0,0,,,,,,2,0,2,New Zealand_11,3,2,98,0,0
+211048,2004/05,New Zealand,11,HJH Marshall,70542bef,MS Kasprowicz,8d0ea930,SB Styris,57efa3be,0,0,0,0,,,,,,2,0,2,New Zealand_11,4,2,100,0,0
+211048,2004/05,New Zealand,11,HJH Marshall,70542bef,MS Kasprowicz,8d0ea930,SB Styris,57efa3be,0,0,0,0,,,,,,0,0,0,New Zealand_11,5,2,100,0,0
+211048,2004/05,New Zealand,11,HJH Marshall,70542bef,MS Kasprowicz,8d0ea930,SB Styris,57efa3be,0,0,0,0,,,,,,1,0,1,New Zealand_11,6,2,101,0,0
+211048,2004/05,New Zealand,12,HJH Marshall,70542bef,A Symonds,bd77eb62,SB Styris,57efa3be,0,0,0,0,,,,,,1,0,1,New Zealand_12,1,2,102,0,0
+211048,2004/05,New Zealand,12,SB Styris,57efa3be,A Symonds,bd77eb62,HJH Marshall,70542bef,0,0,0,0,,,,,,1,0,1,New Zealand_12,2,2,103,0,0
+211048,2004/05,New Zealand,12,HJH Marshall,70542bef,A Symonds,bd77eb62,SB Styris,57efa3be,0,0,0,0,,,,,,2,0,2,New Zealand_12,3,2,105,0,0
+211048,2004/05,New Zealand,12,HJH Marshall,70542bef,A Symonds,bd77eb62,SB Styris,57efa3be,0,0,0,0,HJH Marshall,70542bef,,,bowled,0,0,0,New Zealand_12,4,2,105,0,1
+211048,2004/05,New Zealand,12,AR Adams,525c3f54,A Symonds,bd77eb62,SB Styris,57efa3be,0,0,0,0,,,,,,0,0,0,New Zealand_12,5,2,105,0,0
+211048,2004/05,New Zealand,12,AR Adams,525c3f54,A Symonds,bd77eb62,SB Styris,57efa3be,0,0,0,0,,,,,,1,0,1,New Zealand_12,6,2,106,0,0
+211048,2004/05,New Zealand,13,AR Adams,525c3f54,MJ Clarke,f842c2cf,SB Styris,57efa3be,0,0,0,0,,,,,,0,0,0,New Zealand_13,1,2,106,0,0
+211048,2004/05,New Zealand,13,AR Adams,525c3f54,MJ Clarke,f842c2cf,SB Styris,57efa3be,0,0,0,0,,,,,,1,0,1,New Zealand_13,2,2,107,0,0
+211048,2004/05,New Zealand,13,SB Styris,57efa3be,MJ Clarke,f842c2cf,AR Adams,525c3f54,0,0,0,0,,,,,,1,0,1,New Zealand_13,3,2,108,0,0
+211048,2004/05,New Zealand,13,AR Adams,525c3f54,MJ Clarke,f842c2cf,SB Styris,57efa3be,0,0,0,0,,,,,,1,0,1,New Zealand_13,4,2,109,0,0
+211048,2004/05,New Zealand,13,SB Styris,57efa3be,MJ Clarke,f842c2cf,AR Adams,525c3f54,0,0,0,0,,,,,,1,0,1,New Zealand_13,5,2,110,0,0
+211048,2004/05,New Zealand,13,AR Adams,525c3f54,MJ Clarke,f842c2cf,SB Styris,57efa3be,0,0,0,0,,,,,,4,0,4,New Zealand_13,6,2,114,0,0
+211048,2004/05,New Zealand,14,SB Styris,57efa3be,A Symonds,bd77eb62,AR Adams,525c3f54,0,0,0,0,,,,,,0,0,0,New Zealand_14,1,2,114,0,0
+211048,2004/05,New Zealand,14,SB Styris,57efa3be,A Symonds,bd77eb62,AR Adams,525c3f54,0,0,0,0,,,,,,6,0,6,New Zealand_14,2,2,120,0,0
+211048,2004/05,New Zealand,14,SB Styris,57efa3be,A Symonds,bd77eb62,AR Adams,525c3f54,0,0,0,0,,,,,,1,0,1,New Zealand_14,3,2,121,0,0
+211048,2004/05,New Zealand,14,AR Adams,525c3f54,A Symonds,bd77eb62,SB Styris,57efa3be,0,0,0,0,AR Adams,525c3f54,GD McGrath,ee7d0c82,run out,0,0,0,New Zealand_14,4,2,121,0,1
+211048,2004/05,New Zealand,14,SB Styris,57efa3be,A Symonds,bd77eb62,JW Wilson,91c984a1,0,0,0,0,,,,,,1,0,1,New Zealand_14,5,2,122,0,0
+211048,2004/05,New Zealand,14,JW Wilson,91c984a1,A Symonds,bd77eb62,SB Styris,57efa3be,0,0,0,0,,,,,,1,0,1,New Zealand_14,6,2,123,0,0
+211048,2004/05,New Zealand,15,JW Wilson,91c984a1,MJ Clarke,f842c2cf,SB Styris,57efa3be,0,0,0,0,,,,,,0,0,0,New Zealand_15,1,2,123,0,0
+211048,2004/05,New Zealand,15,JW Wilson,91c984a1,MJ Clarke,f842c2cf,SB Styris,57efa3be,0,0,0,0,,,,,,1,0,1,New Zealand_15,2,2,124,0,0
+211048,2004/05,New Zealand,15,SB Styris,57efa3be,MJ Clarke,f842c2cf,JW Wilson,91c984a1,0,0,0,0,,,,,,0,0,0,New Zealand_15,3,2,124,0,0
+211048,2004/05,New Zealand,15,SB Styris,57efa3be,MJ Clarke,f842c2cf,JW Wilson,91c984a1,0,0,0,0,,,,,,0,0,0,New Zealand_15,4,2,124,0,0
+211048,2004/05,New Zealand,15,SB Styris,57efa3be,MJ Clarke,f842c2cf,JW Wilson,91c984a1,0,0,0,0,,,,,,1,0,1,New Zealand_15,5,2,125,0,0
+211048,2004/05,New Zealand,15,JW Wilson,91c984a1,MJ Clarke,f842c2cf,SB Styris,57efa3be,0,0,0,0,,,,,,1,0,1,New Zealand_15,6,2,126,0,0
+211048,2004/05,New Zealand,16,JW Wilson,91c984a1,A Symonds,bd77eb62,SB Styris,57efa3be,0,0,0,0,,,,,,4,0,4,New Zealand_16,1,2,130,0,0
+211048,2004/05,New Zealand,16,JW Wilson,91c984a1,A Symonds,bd77eb62,SB Styris,57efa3be,0,0,0,0,,,,,,1,0,1,New Zealand_16,2,2,131,0,0
+211048,2004/05,New Zealand,16,SB Styris,57efa3be,A Symonds,bd77eb62,JW Wilson,91c984a1,0,0,0,0,,,,,,4,0,4,New Zealand_16,3,2,135,0,0
+211048,2004/05,New Zealand,16,SB Styris,57efa3be,A Symonds,bd77eb62,JW Wilson,91c984a1,0,0,0,0,,,,,,2,0,2,New Zealand_16,4,2,137,0,0
+211048,2004/05,New Zealand,16,SB Styris,57efa3be,A Symonds,bd77eb62,JW Wilson,91c984a1,0,0,0,0,,,,,,4,0,4,New Zealand_16,5,2,141,0,0
+211048,2004/05,New Zealand,16,SB Styris,57efa3be,A Symonds,bd77eb62,JW Wilson,91c984a1,0,0,0,0,,,,,,4,0,4,New Zealand_16,6,2,145,0,0
+211048,2004/05,New Zealand,17,JW Wilson,91c984a1,GD McGrath,ee7d0c82,SB Styris,57efa3be,0,0,0,0,,,,,,4,0,4,New Zealand_17,1,2,149,0,0
+211048,2004/05,New Zealand,17,JW Wilson,91c984a1,GD McGrath,ee7d0c82,SB Styris,57efa3be,0,0,0,0,,,,,,1,0,1,New Zealand_17,2,2,150,0,0
+211048,2004/05,New Zealand,17,SB Styris,57efa3be,GD McGrath,ee7d0c82,JW Wilson,91c984a1,0,0,0,0,,,,,,2,0,2,New Zealand_17,3,2,152,0,0
+211048,2004/05,New Zealand,17,SB Styris,57efa3be,GD McGrath,ee7d0c82,JW Wilson,91c984a1,0,0,0,0,,,,,,6,0,6,New Zealand_17,4,2,158,0,0
+211048,2004/05,New Zealand,17,SB Styris,57efa3be,GD McGrath,ee7d0c82,JW Wilson,91c984a1,0,0,0,0,,,,,,0,0,0,New Zealand_17,5,2,158,0,0
+211048,2004/05,New Zealand,17,SB Styris,57efa3be,GD McGrath,ee7d0c82,JW Wilson,91c984a1,0,0,0,0,,,,,,1,0,1,New Zealand_17,6,2,159,0,0
+211048,2004/05,New Zealand,18,SB Styris,57efa3be,B Lee,dd09ff8e,JW Wilson,91c984a1,0,0,0,0,,,,,,1,0,1,New Zealand_18,1,2,160,0,0
+211048,2004/05,New Zealand,18,JW Wilson,91c984a1,B Lee,dd09ff8e,SB Styris,57efa3be,0,0,0,0,,,,,,0,0,0,New Zealand_18,2,2,160,0,0
+211048,2004/05,New Zealand,18,JW Wilson,91c984a1,B Lee,dd09ff8e,SB Styris,57efa3be,0,0,0,0,,,,,,0,0,0,New Zealand_18,3,2,160,0,0
+211048,2004/05,New Zealand,18,JW Wilson,91c984a1,B Lee,dd09ff8e,SB Styris,57efa3be,0,0,0,0,,,,,,1,0,1,New Zealand_18,4,2,161,0,0
+211048,2004/05,New Zealand,18,SB Styris,57efa3be,B Lee,dd09ff8e,JW Wilson,91c984a1,0,0,0,0,,,,,,0,0,0,New Zealand_18,5,2,161,0,0
+211048,2004/05,New Zealand,18,SB Styris,57efa3be,B Lee,dd09ff8e,JW Wilson,91c984a1,0,0,0,0,SB Styris,57efa3be,,,bowled,0,0,0,New Zealand_18,6,2,161,0,1
+211048,2004/05,New Zealand,19,JW Wilson,91c984a1,GD McGrath,ee7d0c82,KD Mills,7fb32e5b,0,0,0,0,,,,,,2,0,2,New Zealand_19,1,2,163,0,0
+211048,2004/05,New Zealand,19,JW Wilson,91c984a1,GD McGrath,ee7d0c82,KD Mills,7fb32e5b,0,0,0,0,,,,,,2,0,2,New Zealand_19,2,2,165,0,0
+211048,2004/05,New Zealand,19,JW Wilson,91c984a1,GD McGrath,ee7d0c82,KD Mills,7fb32e5b,0,0,0,0,JW Wilson,91c984a1,,,bowled,0,0,0,New Zealand_19,3,2,165,0,1
+211048,2004/05,New Zealand,19,DR Tuffey,43936951,GD McGrath,ee7d0c82,KD Mills,7fb32e5b,0,0,0,0,,,,,,4,0,4,New Zealand_19,4,2,169,0,0
+211048,2004/05,New Zealand,19,DR Tuffey,43936951,GD McGrath,ee7d0c82,KD Mills,7fb32e5b,0,0,0,0,,,,,,1,0,1,New Zealand_19,5,2,170,0,0
+211048,2004/05,New Zealand,19,KD Mills,7fb32e5b,GD McGrath,ee7d0c82,DR Tuffey,43936951,0,0,0,0,KD Mills,7fb32e5b,MS Kasprowicz,8d0ea930,caught,0,0,0,New Zealand_19,6,2,170,0,1
+211028,2005,England,0,ME Trescothick,ea42ddb9,B Lee,dd09ff8e,GO Jones,2e929b99,0,0,0,0,,,,,,0,0,0,England_0,1,1,0,1,0
+211028,2005,England,0,ME Trescothick,ea42ddb9,B Lee,dd09ff8e,GO Jones,2e929b99,0,0,0,0,,,,,,1,0,1,England_0,2,1,1,1,0
+211028,2005,England,0,GO Jones,2e929b99,B Lee,dd09ff8e,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,0,0,0,England_0,3,1,1,1,0
+211028,2005,England,0,GO Jones,2e929b99,B Lee,dd09ff8e,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,0,0,0,England_0,4,1,1,1,0
+211028,2005,England,0,GO Jones,2e929b99,B Lee,dd09ff8e,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,0,0,0,England_0,5,1,1,1,0
+211028,2005,England,0,GO Jones,2e929b99,B Lee,dd09ff8e,ME Trescothick,ea42ddb9,0,1,0,0,,,,,,0,1,1,England_0,6,1,2,1,0
+211028,2005,England,0,GO Jones,2e929b99,B Lee,dd09ff8e,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,2,0,2,England_0,7,1,4,1,0
+211028,2005,England,1,ME Trescothick,ea42ddb9,GD McGrath,ee7d0c82,GO Jones,2e929b99,0,0,0,0,,,,,,0,0,0,England_1,1,1,4,1,0
+211028,2005,England,1,ME Trescothick,ea42ddb9,GD McGrath,ee7d0c82,GO Jones,2e929b99,0,0,0,0,,,,,,0,0,0,England_1,2,1,4,1,0
+211028,2005,England,1,ME Trescothick,ea42ddb9,GD McGrath,ee7d0c82,GO Jones,2e929b99,1,0,0,0,,,,,,0,1,1,England_1,3,1,5,1,0
+211028,2005,England,1,ME Trescothick,ea42ddb9,GD McGrath,ee7d0c82,GO Jones,2e929b99,0,0,0,0,,,,,,0,0,0,England_1,4,1,5,1,0
+211028,2005,England,1,ME Trescothick,ea42ddb9,GD McGrath,ee7d0c82,GO Jones,2e929b99,0,0,0,0,,,,,,0,0,0,England_1,5,1,5,1,0
+211028,2005,England,1,ME Trescothick,ea42ddb9,GD McGrath,ee7d0c82,GO Jones,2e929b99,0,0,0,0,,,,,,0,0,0,England_1,6,1,5,1,0
+211028,2005,England,1,ME Trescothick,ea42ddb9,GD McGrath,ee7d0c82,GO Jones,2e929b99,0,0,0,0,,,,,,1,0,1,England_1,7,1,6,1,0
+211028,2005,England,2,ME Trescothick,ea42ddb9,B Lee,dd09ff8e,GO Jones,2e929b99,0,0,0,0,,,,,,4,0,4,England_2,1,1,10,1,0
+211028,2005,England,2,ME Trescothick,ea42ddb9,B Lee,dd09ff8e,GO Jones,2e929b99,0,0,0,0,,,,,,1,0,1,England_2,2,1,11,1,0
+211028,2005,England,2,GO Jones,2e929b99,B Lee,dd09ff8e,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,0,0,0,England_2,3,1,11,1,0
+211028,2005,England,2,GO Jones,2e929b99,B Lee,dd09ff8e,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,4,0,4,England_2,4,1,15,1,0
+211028,2005,England,2,GO Jones,2e929b99,B Lee,dd09ff8e,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,4,0,4,England_2,5,1,19,1,0
+211028,2005,England,2,GO Jones,2e929b99,B Lee,dd09ff8e,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,1,0,1,England_2,6,1,20,1,0
+211028,2005,England,3,GO Jones,2e929b99,GD McGrath,ee7d0c82,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,0,0,0,England_3,1,1,20,1,0
+211028,2005,England,3,GO Jones,2e929b99,GD McGrath,ee7d0c82,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,4,0,4,England_3,2,1,24,1,0
+211028,2005,England,3,GO Jones,2e929b99,GD McGrath,ee7d0c82,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,4,0,4,England_3,3,1,28,1,0
+211028,2005,England,3,GO Jones,2e929b99,GD McGrath,ee7d0c82,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,0,0,0,England_3,4,1,28,1,0
+211028,2005,England,3,GO Jones,2e929b99,GD McGrath,ee7d0c82,ME Trescothick,ea42ddb9,0,0,0,0,GO Jones,2e929b99,MS Kasprowicz,8d0ea930,caught,0,0,0,England_3,5,1,28,1,1
+211028,2005,England,3,ME Trescothick,ea42ddb9,GD McGrath,ee7d0c82,A Flintoff,ddc0828d,0,0,0,0,,,,,,1,0,1,England_3,6,1,29,1,0
+211028,2005,England,4,ME Trescothick,ea42ddb9,B Lee,dd09ff8e,A Flintoff,ddc0828d,0,0,0,0,,,,,,1,0,1,England_4,1,1,30,1,0
+211028,2005,England,4,A Flintoff,ddc0828d,B Lee,dd09ff8e,ME Trescothick,ea42ddb9,0,1,0,0,,,,,,1,1,2,England_4,2,1,32,1,0
+211028,2005,England,4,ME Trescothick,ea42ddb9,B Lee,dd09ff8e,A Flintoff,ddc0828d,0,0,0,0,,,,,,4,0,4,England_4,3,1,36,1,0
+211028,2005,England,4,ME Trescothick,ea42ddb9,B Lee,dd09ff8e,A Flintoff,ddc0828d,0,0,0,0,,,,,,1,0,1,England_4,4,1,37,1,0
+211028,2005,England,4,A Flintoff,ddc0828d,B Lee,dd09ff8e,ME Trescothick,ea42ddb9,1,0,0,0,,,,,,0,1,1,England_4,5,1,38,1,0
+211028,2005,England,4,A Flintoff,ddc0828d,B Lee,dd09ff8e,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,1,0,1,England_4,6,1,39,1,0
+211028,2005,England,4,ME Trescothick,ea42ddb9,B Lee,dd09ff8e,A Flintoff,ddc0828d,0,0,1,0,,,,,,0,1,1,England_4,7,1,40,1,0
+211028,2005,England,4,A Flintoff,ddc0828d,B Lee,dd09ff8e,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,3,0,3,England_4,8,1,43,1,0
+211028,2005,England,5,A Flintoff,ddc0828d,MS Kasprowicz,8d0ea930,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,1,0,1,England_5,1,1,44,1,0
+211028,2005,England,5,ME Trescothick,ea42ddb9,MS Kasprowicz,8d0ea930,A Flintoff,ddc0828d,0,0,0,0,,,,,,0,0,0,England_5,2,1,44,1,0
+211028,2005,England,5,ME Trescothick,ea42ddb9,MS Kasprowicz,8d0ea930,A Flintoff,ddc0828d,0,0,0,0,,,,,,4,0,4,England_5,3,1,48,1,0
+211028,2005,England,5,ME Trescothick,ea42ddb9,MS Kasprowicz,8d0ea930,A Flintoff,ddc0828d,0,0,0,0,,,,,,1,0,1,England_5,4,1,49,1,0
+211028,2005,England,5,A Flintoff,ddc0828d,MS Kasprowicz,8d0ea930,ME Trescothick,ea42ddb9,0,0,0,0,A Flintoff,ddc0828d,A Symonds,bd77eb62,caught,0,0,0,England_5,5,1,49,1,1
+211028,2005,England,5,KP Pietersen,39f01cdb,MS Kasprowicz,8d0ea930,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,1,0,1,England_5,6,1,50,1,0
+211028,2005,England,6,KP Pietersen,39f01cdb,JN Gillespie,74234d66,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,1,0,1,England_6,1,1,51,0,0
+211028,2005,England,6,ME Trescothick,ea42ddb9,JN Gillespie,74234d66,KP Pietersen,39f01cdb,0,0,0,0,,,,,,0,0,0,England_6,2,1,51,0,0
+211028,2005,England,6,ME Trescothick,ea42ddb9,JN Gillespie,74234d66,KP Pietersen,39f01cdb,0,0,0,0,,,,,,1,0,1,England_6,3,1,52,0,0
+211028,2005,England,6,KP Pietersen,39f01cdb,JN Gillespie,74234d66,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,0,0,0,England_6,4,1,52,0,0
+211028,2005,England,6,KP Pietersen,39f01cdb,JN Gillespie,74234d66,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,4,0,4,England_6,5,1,56,0,0
+211028,2005,England,6,KP Pietersen,39f01cdb,JN Gillespie,74234d66,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,2,0,2,England_6,6,1,58,0,0
+211028,2005,England,7,ME Trescothick,ea42ddb9,MS Kasprowicz,8d0ea930,KP Pietersen,39f01cdb,0,0,0,0,,,,,,1,0,1,England_7,1,1,59,0,0
+211028,2005,England,7,KP Pietersen,39f01cdb,MS Kasprowicz,8d0ea930,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,4,0,4,England_7,2,1,63,0,0
+211028,2005,England,7,KP Pietersen,39f01cdb,MS Kasprowicz,8d0ea930,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,2,0,2,England_7,3,1,65,0,0
+211028,2005,England,7,KP Pietersen,39f01cdb,MS Kasprowicz,8d0ea930,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,1,0,1,England_7,4,1,66,0,0
+211028,2005,England,7,ME Trescothick,ea42ddb9,MS Kasprowicz,8d0ea930,KP Pietersen,39f01cdb,0,0,0,0,,,,,,1,0,1,England_7,5,1,67,0,0
+211028,2005,England,7,KP Pietersen,39f01cdb,MS Kasprowicz,8d0ea930,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,1,0,1,England_7,6,1,68,0,0
+211028,2005,England,8,KP Pietersen,39f01cdb,JN Gillespie,74234d66,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,1,0,1,England_8,1,1,69,0,0
+211028,2005,England,8,ME Trescothick,ea42ddb9,JN Gillespie,74234d66,KP Pietersen,39f01cdb,0,0,0,0,,,,,,1,0,1,England_8,2,1,70,0,0
+211028,2005,England,8,KP Pietersen,39f01cdb,JN Gillespie,74234d66,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,1,0,1,England_8,3,1,71,0,0
+211028,2005,England,8,ME Trescothick,ea42ddb9,JN Gillespie,74234d66,KP Pietersen,39f01cdb,0,0,0,0,,,,,,4,0,4,England_8,4,1,75,0,0
+211028,2005,England,8,ME Trescothick,ea42ddb9,JN Gillespie,74234d66,KP Pietersen,39f01cdb,0,0,0,0,,,,,,1,0,1,England_8,5,1,76,0,0
+211028,2005,England,8,KP Pietersen,39f01cdb,JN Gillespie,74234d66,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,6,0,6,England_8,6,1,82,0,0
+211028,2005,England,9,ME Trescothick,ea42ddb9,MS Kasprowicz,8d0ea930,KP Pietersen,39f01cdb,0,0,0,0,,,,,,1,0,1,England_9,1,1,83,0,0
+211028,2005,England,9,KP Pietersen,39f01cdb,MS Kasprowicz,8d0ea930,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,2,0,2,England_9,2,1,85,0,0
+211028,2005,England,9,KP Pietersen,39f01cdb,MS Kasprowicz,8d0ea930,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,4,0,4,England_9,3,1,89,0,0
+211028,2005,England,9,KP Pietersen,39f01cdb,MS Kasprowicz,8d0ea930,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,1,0,1,England_9,4,1,90,0,0
+211028,2005,England,9,ME Trescothick,ea42ddb9,MS Kasprowicz,8d0ea930,KP Pietersen,39f01cdb,0,0,0,0,,,,,,1,0,1,England_9,5,1,91,0,0
+211028,2005,England,9,KP Pietersen,39f01cdb,MS Kasprowicz,8d0ea930,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,2,0,2,England_9,6,1,93,0,0
+211028,2005,England,10,ME Trescothick,ea42ddb9,MJ Clarke,f842c2cf,KP Pietersen,39f01cdb,0,0,0,0,,,,,,1,0,1,England_10,1,1,94,0,0
+211028,2005,England,10,KP Pietersen,39f01cdb,MJ Clarke,f842c2cf,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,1,0,1,England_10,2,1,95,0,0
+211028,2005,England,10,ME Trescothick,ea42ddb9,MJ Clarke,f842c2cf,KP Pietersen,39f01cdb,0,0,0,0,,,,,,4,0,4,England_10,3,1,99,0,0
+211028,2005,England,10,ME Trescothick,ea42ddb9,MJ Clarke,f842c2cf,KP Pietersen,39f01cdb,0,0,0,0,,,,,,1,0,1,England_10,4,1,100,0,0
+211028,2005,England,10,KP Pietersen,39f01cdb,MJ Clarke,f842c2cf,ME Trescothick,ea42ddb9,0,0,0,0,KP Pietersen,39f01cdb,ML Hayden,d8699ab7,caught,0,0,0,England_10,5,1,100,0,1
+211028,2005,England,10,ME Trescothick,ea42ddb9,MJ Clarke,f842c2cf,MP Vaughan,6e1b1ec0,0,0,0,0,,,,,,1,0,1,England_10,6,1,101,0,0
+211028,2005,England,11,ME Trescothick,ea42ddb9,A Symonds,bd77eb62,MP Vaughan,6e1b1ec0,0,0,0,0,,,,,,1,0,1,England_11,1,1,102,0,0
+211028,2005,England,11,MP Vaughan,6e1b1ec0,A Symonds,bd77eb62,ME Trescothick,ea42ddb9,0,0,0,0,MP Vaughan,6e1b1ec0,RT Ponting,7d415ea5,caught,0,0,0,England_11,2,1,102,0,1
+211028,2005,England,11,PD Collingwood,a386e91b,A Symonds,bd77eb62,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,0,0,0,England_11,3,1,102,0,0
+211028,2005,England,11,PD Collingwood,a386e91b,A Symonds,bd77eb62,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,1,0,1,England_11,4,1,103,0,0
+211028,2005,England,11,ME Trescothick,ea42ddb9,A Symonds,bd77eb62,PD Collingwood,a386e91b,0,0,0,0,,,,,,1,0,1,England_11,5,1,104,0,0
+211028,2005,England,11,PD Collingwood,a386e91b,A Symonds,bd77eb62,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,1,0,1,England_11,6,1,105,0,0
+211028,2005,England,12,PD Collingwood,a386e91b,MJ Clarke,f842c2cf,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,1,0,1,England_12,1,1,106,0,0
+211028,2005,England,12,ME Trescothick,ea42ddb9,MJ Clarke,f842c2cf,PD Collingwood,a386e91b,0,0,0,0,,,,,,0,0,0,England_12,2,1,106,0,0
+211028,2005,England,12,ME Trescothick,ea42ddb9,MJ Clarke,f842c2cf,PD Collingwood,a386e91b,0,0,0,0,,,,,,1,0,1,England_12,3,1,107,0,0
+211028,2005,England,12,PD Collingwood,a386e91b,MJ Clarke,f842c2cf,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,0,0,0,England_12,4,1,107,0,0
+211028,2005,England,12,PD Collingwood,a386e91b,MJ Clarke,f842c2cf,ME Trescothick,ea42ddb9,0,0,0,0,,,,,,1,0,1,England_12,5,1,108,0,0
+211028,2005,England,12,ME Trescothick,ea42ddb9,MJ Clarke,f842c2cf,PD Collingwood,a386e91b,0,0,0,0,,,,,,1,0,1,England_12,6,1,109,0,0
+211028,2005,England,13,ME Trescothick,ea42ddb9,A Symonds,bd77eb62,PD Collingwood,a386e91b,0,0,0,0,ME Trescothick,ea42ddb9,MEK Hussey,48fd7349,caught,0,0,0,England_13,1,1,109,0,1
+211028,2005,England,13,PD Collingwood,a386e91b,A Symonds,bd77eb62,AJ Strauss,b68d14a9,0,0,0,0,,,,,,0,0,0,England_13,2,1,109,0,0
+211028,2005,England,13,PD Collingwood,a386e91b,A Symonds,bd77eb62,AJ Strauss,b68d14a9,0,0,0,0,,,,,,1,0,1,England_13,3,1,110,0,0
+211028,2005,England,13,AJ Strauss,b68d14a9,A Symonds,bd77eb62,PD Collingwood,a386e91b,0,0,0,0,,,,,,0,0,0,England_13,4,1,110,0,0
+211028,2005,England,13,AJ Strauss,b68d14a9,A Symonds,bd77eb62,PD Collingwood,a386e91b,0,0,0,0,,,,,,1,0,1,England_13,5,1,111,0,0
+211028,2005,England,13,PD Collingwood,a386e91b,A Symonds,bd77eb62,AJ Strauss,b68d14a9,0,0,0,0,,,,,,0,0,0,England_13,6,1,111,0,0
+211028,2005,England,14,AJ Strauss,b68d14a9,MJ Clarke,f842c2cf,PD Collingwood,a386e91b,0,0,0,0,,,,,,3,0,3,England_14,1,1,114,0,0
+211028,2005,England,14,PD Collingwood,a386e91b,MJ Clarke,f842c2cf,AJ Strauss,b68d14a9,0,0,0,0,,,,,,2,0,2,England_14,2,1,116,0,0
+211028,2005,England,14,PD Collingwood,a386e91b,MJ Clarke,f842c2cf,AJ Strauss,b68d14a9,0,0,0,0,,,,,,1,0,1,England_14,3,1,117,0,0
+211028,2005,England,14,AJ Strauss,b68d14a9,MJ Clarke,f842c2cf,PD Collingwood,a386e91b,0,0,0,0,,,,,,0,0,0,England_14,4,1,117,0,0
+211028,2005,England,14,AJ Strauss,b68d14a9,MJ Clarke,f842c2cf,PD Collingwood,a386e91b,0,0,0,0,,,,,,1,0,1,England_14,5,1,118,0,0
+211028,2005,England,14,PD Collingwood,a386e91b,MJ Clarke,f842c2cf,AJ Strauss,b68d14a9,0,0,0,0,,,,,,6,0,6,England_14,6,1,124,0,0
+211028,2005,England,15,AJ Strauss,b68d14a9,A Symonds,bd77eb62,PD Collingwood,a386e91b,0,0,0,0,,,,,,1,0,1,England_15,1,1,125,0,0
+211028,2005,England,15,PD Collingwood,a386e91b,A Symonds,bd77eb62,AJ Strauss,b68d14a9,0,0,0,0,,,,,,1,0,1,England_15,2,1,126,0,0
+211028,2005,England,15,AJ Strauss,b68d14a9,A Symonds,bd77eb62,PD Collingwood,a386e91b,0,0,0,0,,,,,,0,0,0,England_15,3,1,126,0,0
+211028,2005,England,15,AJ Strauss,b68d14a9,A Symonds,bd77eb62,PD Collingwood,a386e91b,0,0,0,0,,,,,,1,0,1,England_15,4,1,127,0,0
+211028,2005,England,15,PD Collingwood,a386e91b,A Symonds,bd77eb62,AJ Strauss,b68d14a9,0,0,0,0,,,,,,4,0,4,England_15,5,1,131,0,0
+211028,2005,England,15,PD Collingwood,a386e91b,A Symonds,bd77eb62,AJ Strauss,b68d14a9,0,0,0,0,,,,,,1,0,1,England_15,6,1,132,0,0
+211028,2005,England,16,PD Collingwood,a386e91b,JN Gillespie,74234d66,AJ Strauss,b68d14a9,0,0,0,0,,,,,,1,0,1,England_16,1,1,133,0,0
+211028,2005,England,16,AJ Strauss,b68d14a9,JN Gillespie,74234d66,PD Collingwood,a386e91b,0,0,0,0,,,,,,0,0,0,England_16,2,1,133,0,0
+211028,2005,England,16,AJ Strauss,b68d14a9,JN Gillespie,74234d66,PD Collingwood,a386e91b,0,0,0,0,,,,,,4,0,4,England_16,3,1,137,0,0
+211028,2005,England,16,AJ Strauss,b68d14a9,JN Gillespie,74234d66,PD Collingwood,a386e91b,1,0,0,0,,,,,,0,1,1,England_16,4,1,138,0,0
+211028,2005,England,16,AJ Strauss,b68d14a9,JN Gillespie,74234d66,PD Collingwood,a386e91b,0,0,0,0,,,,,,1,0,1,England_16,5,1,139,0,0
+211028,2005,England,16,PD Collingwood,a386e91b,JN Gillespie,74234d66,AJ Strauss,b68d14a9,0,0,0,0,,,,,,4,0,4,England_16,6,1,143,0,0
+211028,2005,England,16,PD Collingwood,a386e91b,JN Gillespie,74234d66,AJ Strauss,b68d14a9,0,0,0,0,,,,,,6,0,6,England_16,7,1,149,0,0
+211028,2005,England,17,AJ Strauss,b68d14a9,GD McGrath,ee7d0c82,PD Collingwood,a386e91b,0,0,0,0,,,,,,2,0,2,England_17,1,1,151,0,0
+211028,2005,England,17,AJ Strauss,b68d14a9,GD McGrath,ee7d0c82,PD Collingwood,a386e91b,0,0,0,0,,,,,,1,0,1,England_17,2,1,152,0,0
+211028,2005,England,17,PD Collingwood,a386e91b,GD McGrath,ee7d0c82,AJ Strauss,b68d14a9,0,0,0,0,,,,,,1,0,1,England_17,3,1,153,0,0
+211028,2005,England,17,AJ Strauss,b68d14a9,GD McGrath,ee7d0c82,PD Collingwood,a386e91b,0,0,0,0,,,,,,2,0,2,England_17,4,1,155,0,0
+211028,2005,England,17,AJ Strauss,b68d14a9,GD McGrath,ee7d0c82,PD Collingwood,a386e91b,0,0,0,0,,,,,,1,0,1,England_17,5,1,156,0,0
+211028,2005,England,17,PD Collingwood,a386e91b,GD McGrath,ee7d0c82,AJ Strauss,b68d14a9,0,0,0,0,,,,,,1,0,1,England_17,6,1,157,0,0
+211028,2005,England,18,PD Collingwood,a386e91b,JN Gillespie,74234d66,AJ Strauss,b68d14a9,0,0,0,0,,,,,,1,0,1,England_18,1,1,158,0,0
+211028,2005,England,18,AJ Strauss,b68d14a9,JN Gillespie,74234d66,PD Collingwood,a386e91b,0,0,0,0,AJ Strauss,b68d14a9,,,bowled,0,0,0,England_18,2,1,158,0,1
+211028,2005,England,18,VS Solanki,7ee2ce62,JN Gillespie,74234d66,PD Collingwood,a386e91b,0,0,0,0,,,,,,1,0,1,England_18,3,1,159,0,0
+211028,2005,England,18,PD Collingwood,a386e91b,JN Gillespie,74234d66,VS Solanki,7ee2ce62,0,0,0,0,,,,,,0,0,0,England_18,4,1,159,0,0
+211028,2005,England,18,PD Collingwood,a386e91b,JN Gillespie,74234d66,VS Solanki,7ee2ce62,0,0,0,0,,,,,,4,0,4,England_18,5,1,163,0,0
+211028,2005,England,18,PD Collingwood,a386e91b,JN Gillespie,74234d66,VS Solanki,7ee2ce62,0,0,0,0,,,,,,4,0,4,England_18,6,1,167,0,0
+211028,2005,England,19,VS Solanki,7ee2ce62,GD McGrath,ee7d0c82,PD Collingwood,a386e91b,0,0,0,0,,,,,,2,0,2,England_19,1,1,169,0,0
+211028,2005,England,19,VS Solanki,7ee2ce62,GD McGrath,ee7d0c82,PD Collingwood,a386e91b,0,0,0,0,,,,,,4,0,4,England_19,2,1,173,0,0
+211028,2005,England,19,VS Solanki,7ee2ce62,GD McGrath,ee7d0c82,PD Collingwood,a386e91b,0,0,0,0,,,,,,2,0,2,England_19,3,1,175,0,0
+211028,2005,England,19,VS Solanki,7ee2ce62,GD McGrath,ee7d0c82,PD Collingwood,a386e91b,0,0,0,0,VS Solanki,7ee2ce62,MEK Hussey,48fd7349,caught,0,0,0,England_19,4,1,175,0,1
+211028,2005,England,19,PD Collingwood,a386e91b,GD McGrath,ee7d0c82,J Lewis,6c75310b,0,0,0,0,,,,,,4,0,4,England_19,5,1,179,0,0
+211028,2005,England,19,PD Collingwood,a386e91b,GD McGrath,ee7d0c82,J Lewis,6c75310b,0,0,0,0,PD Collingwood,a386e91b,RT Ponting,7d415ea5,caught,0,0,0,England_19,6,1,179,0,1
+211028,2005,Australia,0,AC Gilchrist,2b6e6dec,D Gough,fcbf5a30,ML Hayden,d8699ab7,0,0,0,0,,,,,,0,0,0,Australia_0,1,2,0,1,0
+211028,2005,Australia,0,AC Gilchrist,2b6e6dec,D Gough,fcbf5a30,ML Hayden,d8699ab7,0,0,0,0,,,,,,4,0,4,Australia_0,2,2,4,1,0
+211028,2005,Australia,0,AC Gilchrist,2b6e6dec,D Gough,fcbf5a30,ML Hayden,d8699ab7,0,0,0,0,,,,,,0,0,0,Australia_0,3,2,4,1,0
+211028,2005,Australia,0,AC Gilchrist,2b6e6dec,D Gough,fcbf5a30,ML Hayden,d8699ab7,0,0,0,0,,,,,,0,0,0,Australia_0,4,2,4,1,0
+211028,2005,Australia,0,AC Gilchrist,2b6e6dec,D Gough,fcbf5a30,ML Hayden,d8699ab7,0,0,0,0,,,,,,4,0,4,Australia_0,5,2,8,1,0
+211028,2005,Australia,0,AC Gilchrist,2b6e6dec,D Gough,fcbf5a30,ML Hayden,d8699ab7,0,0,0,0,,,,,,0,0,0,Australia_0,6,2,8,1,0
+211028,2005,Australia,1,ML Hayden,d8699ab7,J Lewis,6c75310b,AC Gilchrist,2b6e6dec,0,0,0,0,,,,,,4,0,4,Australia_1,1,2,12,1,0
+211028,2005,Australia,1,ML Hayden,d8699ab7,J Lewis,6c75310b,AC Gilchrist,2b6e6dec,0,0,0,0,,,,,,1,0,1,Australia_1,2,2,13,1,0
+211028,2005,Australia,1,AC Gilchrist,2b6e6dec,J Lewis,6c75310b,ML Hayden,d8699ab7,0,0,0,0,,,,,,0,0,0,Australia_1,3,2,13,1,0
+211028,2005,Australia,1,AC Gilchrist,2b6e6dec,J Lewis,6c75310b,ML Hayden,d8699ab7,0,0,0,0,,,,,,0,0,0,Australia_1,4,2,13,1,0
+211028,2005,Australia,1,AC Gilchrist,2b6e6dec,J Lewis,6c75310b,ML Hayden,d8699ab7,0,0,0,0,,,,,,4,0,4,Australia_1,5,2,17,1,0
+211028,2005,Australia,1,AC Gilchrist,2b6e6dec,J Lewis,6c75310b,ML Hayden,d8699ab7,0,0,0,0,,,,,,1,0,1,Australia_1,6,2,18,1,0
+211028,2005,Australia,2,AC Gilchrist,2b6e6dec,D Gough,fcbf5a30,ML Hayden,d8699ab7,0,0,1,0,,,,,,0,1,1,Australia_2,1,2,19,1,0
+211028,2005,Australia,2,ML Hayden,d8699ab7,D Gough,fcbf5a30,AC Gilchrist,2b6e6dec,0,0,0,0,,,,,,1,0,1,Australia_2,2,2,20,1,0
+211028,2005,Australia,2,AC Gilchrist,2b6e6dec,D Gough,fcbf5a30,ML Hayden,d8699ab7,0,1,0,0,,,,,,0,1,1,Australia_2,3,2,21,1,0
+211028,2005,Australia,2,AC Gilchrist,2b6e6dec,D Gough,fcbf5a30,ML Hayden,d8699ab7,0,0,0,0,,,,,,2,0,2,Australia_2,4,2,23,1,0
+211028,2005,Australia,2,AC Gilchrist,2b6e6dec,D Gough,fcbf5a30,ML Hayden,d8699ab7,0,0,0,0,AC Gilchrist,2b6e6dec,KP Pietersen,39f01cdb,caught,0,0,0,Australia_2,5,2,23,1,1
+211028,2005,Australia,2,ML Hayden,d8699ab7,D Gough,fcbf5a30,A Symonds,bd77eb62,0,0,0,0,ML Hayden,d8699ab7,KP Pietersen,39f01cdb,caught,0,0,0,Australia_2,6,2,23,1,1
+211028,2005,Australia,2,A Symonds,bd77eb62,D Gough,fcbf5a30,MJ Clarke,f842c2cf,0,0,0,0,,,,,,0,0,0,Australia_2,7,2,23,1,0
+211028,2005,Australia,3,MJ Clarke,f842c2cf,J Lewis,6c75310b,A Symonds,bd77eb62,0,0,0,0,MJ Clarke,f842c2cf,GO Jones,2e929b99,caught,0,0,0,Australia_3,1,2,23,1,1
+211028,2005,Australia,3,MEK Hussey,48fd7349,J Lewis,6c75310b,A Symonds,bd77eb62,0,0,0,0,,,,,,0,0,0,Australia_3,2,2,23,1,0
+211028,2005,Australia,3,MEK Hussey,48fd7349,J Lewis,6c75310b,A Symonds,bd77eb62,0,0,0,0,,,,,,1,0,1,Australia_3,3,2,24,1,0
+211028,2005,Australia,3,A Symonds,bd77eb62,J Lewis,6c75310b,MEK Hussey,48fd7349,0,0,0,0,A Symonds,bd77eb62,KP Pietersen,39f01cdb,caught,0,0,0,Australia_3,4,2,24,1,1
+211028,2005,Australia,3,RT Ponting,7d415ea5,J Lewis,6c75310b,MEK Hussey,48fd7349,0,0,0,0,,,,,,0,0,0,Australia_3,5,2,24,1,0
+211028,2005,Australia,3,RT Ponting,7d415ea5,J Lewis,6c75310b,MEK Hussey,48fd7349,0,0,0,0,,,,,,0,0,0,Australia_3,6,2,24,1,0
+211028,2005,Australia,4,MEK Hussey,48fd7349,D Gough,fcbf5a30,RT Ponting,7d415ea5,0,0,0,0,,,,,,0,0,0,Australia_4,1,2,24,1,0
+211028,2005,Australia,4,MEK Hussey,48fd7349,D Gough,fcbf5a30,RT Ponting,7d415ea5,0,0,0,0,,,,,,0,0,0,Australia_4,2,2,24,1,0
+211028,2005,Australia,4,MEK Hussey,48fd7349,D Gough,fcbf5a30,RT Ponting,7d415ea5,0,0,0,0,,,,,,0,0,0,Australia_4,3,2,24,1,0
+211028,2005,Australia,4,MEK Hussey,48fd7349,D Gough,fcbf5a30,RT Ponting,7d415ea5,0,0,0,0,MEK Hussey,48fd7349,A Flintoff,ddc0828d,caught,0,0,0,Australia_4,4,2,24,1,1
+211028,2005,Australia,4,DR Martyn,69762509,D Gough,fcbf5a30,RT Ponting,7d415ea5,0,0,0,0,,,,,,0,0,0,Australia_4,5,2,24,1,0
+211028,2005,Australia,4,DR Martyn,69762509,D Gough,fcbf5a30,RT Ponting,7d415ea5,0,0,0,0,,,,,,4,0,4,Australia_4,6,2,28,1,0
+211028,2005,Australia,5,RT Ponting,7d415ea5,J Lewis,6c75310b,DR Martyn,69762509,0,0,0,0,RT Ponting,7d415ea5,VS Solanki,7ee2ce62,caught,0,0,0,Australia_5,1,2,28,1,1
+211028,2005,Australia,5,B Lee,dd09ff8e,J Lewis,6c75310b,DR Martyn,69762509,0,0,0,0,,,,,,0,0,0,Australia_5,2,2,28,1,0
+211028,2005,Australia,5,B Lee,dd09ff8e,J Lewis,6c75310b,DR Martyn,69762509,0,0,0,0,,,,,,3,0,3,Australia_5,3,2,31,1,0
+211028,2005,Australia,5,DR Martyn,69762509,J Lewis,6c75310b,B Lee,dd09ff8e,0,0,0,0,,,,,,0,0,0,Australia_5,4,2,31,1,0
+211028,2005,Australia,5,DR Martyn,69762509,J Lewis,6c75310b,B Lee,dd09ff8e,0,0,0,0,DR Martyn,69762509,ME Trescothick,ea42ddb9,caught,0,0,0,Australia_5,5,2,31,1,1
+211028,2005,Australia,5,JN Gillespie,74234d66,J Lewis,6c75310b,B Lee,dd09ff8e,0,0,0,0,,,,,,0,0,0,Australia_5,6,2,31,1,0
+211028,2005,Australia,6,B Lee,dd09ff8e,SJ Harmison,c16d2e28,JN Gillespie,74234d66,0,0,0,0,,,,,,0,0,0,Australia_6,1,2,31,0,0
+211028,2005,Australia,6,B Lee,dd09ff8e,SJ Harmison,c16d2e28,JN Gillespie,74234d66,0,0,0,0,,,,,,1,0,1,Australia_6,2,2,32,0,0
+211028,2005,Australia,6,JN Gillespie,74234d66,SJ Harmison,c16d2e28,B Lee,dd09ff8e,0,1,0,0,,,,,,0,1,1,Australia_6,3,2,33,0,0
+211028,2005,Australia,6,JN Gillespie,74234d66,SJ Harmison,c16d2e28,B Lee,dd09ff8e,0,0,0,0,,,,,,1,0,1,Australia_6,4,2,34,0,0
+211028,2005,Australia,6,B Lee,dd09ff8e,SJ Harmison,c16d2e28,JN Gillespie,74234d66,0,0,0,0,,,,,,4,0,4,Australia_6,5,2,38,0,0
+211028,2005,Australia,6,B Lee,dd09ff8e,SJ Harmison,c16d2e28,JN Gillespie,74234d66,0,0,0,0,,,,,,1,0,1,Australia_6,6,2,39,0,0
+211028,2005,Australia,6,JN Gillespie,74234d66,SJ Harmison,c16d2e28,B Lee,dd09ff8e,0,0,0,0,,,,,,0,0,0,Australia_6,7,2,39,0,0
+211028,2005,Australia,7,B Lee,dd09ff8e,J Lewis,6c75310b,JN Gillespie,74234d66,0,0,0,0,,,,,,2,0,2,Australia_7,1,2,41,0,0
+211028,2005,Australia,7,B Lee,dd09ff8e,J Lewis,6c75310b,JN Gillespie,74234d66,0,0,0,0,,,,,,1,0,1,Australia_7,2,2,42,0,0
+211028,2005,Australia,7,JN Gillespie,74234d66,J Lewis,6c75310b,B Lee,dd09ff8e,0,0,0,0,,,,,,0,0,0,Australia_7,3,2,42,0,0
+211028,2005,Australia,7,JN Gillespie,74234d66,J Lewis,6c75310b,B Lee,dd09ff8e,0,0,0,0,,,,,,4,0,4,Australia_7,4,2,46,0,0
+211028,2005,Australia,7,JN Gillespie,74234d66,J Lewis,6c75310b,B Lee,dd09ff8e,0,0,0,0,,,,,,0,0,0,Australia_7,5,2,46,0,0
+211028,2005,Australia,7,JN Gillespie,74234d66,J Lewis,6c75310b,B Lee,dd09ff8e,0,0,0,0,,,,,,3,0,3,Australia_7,6,2,49,0,0
+211028,2005,Australia,8,JN Gillespie,74234d66,SJ Harmison,c16d2e28,B Lee,dd09ff8e,0,0,0,0,,,,,,4,0,4,Australia_8,1,2,53,0,0
+211028,2005,Australia,8,JN Gillespie,74234d66,SJ Harmison,c16d2e28,B Lee,dd09ff8e,0,0,0,0,,,,,,0,0,0,Australia_8,2,2,53,0,0
+211028,2005,Australia,8,JN Gillespie,74234d66,SJ Harmison,c16d2e28,B Lee,dd09ff8e,0,0,0,0,,,,,,0,0,0,Australia_8,3,2,53,0,0
+211028,2005,Australia,8,JN Gillespie,74234d66,SJ Harmison,c16d2e28,B Lee,dd09ff8e,0,0,0,0,,,,,,1,0,1,Australia_8,4,2,54,0,0
+211028,2005,Australia,8,B Lee,dd09ff8e,SJ Harmison,c16d2e28,JN Gillespie,74234d66,0,0,0,0,,,,,,0,0,0,Australia_8,5,2,54,0,0
+211028,2005,Australia,8,B Lee,dd09ff8e,SJ Harmison,c16d2e28,JN Gillespie,74234d66,0,0,0,0,,,,,,0,0,0,Australia_8,6,2,54,0,0
+211028,2005,Australia,9,JN Gillespie,74234d66,A Flintoff,ddc0828d,B Lee,dd09ff8e,0,0,0,0,,,,,,4,0,4,Australia_9,1,2,58,0,0
+211028,2005,Australia,9,JN Gillespie,74234d66,A Flintoff,ddc0828d,B Lee,dd09ff8e,0,0,0,0,,,,,,4,0,4,Australia_9,2,2,62,0,0
+211028,2005,Australia,9,JN Gillespie,74234d66,A Flintoff,ddc0828d,B Lee,dd09ff8e,0,0,0,0,,,,,,1,0,1,Australia_9,3,2,63,0,0
+211028,2005,Australia,9,B Lee,dd09ff8e,A Flintoff,ddc0828d,JN Gillespie,74234d66,0,0,0,0,,,,,,1,0,1,Australia_9,4,2,64,0,0
+211028,2005,Australia,9,JN Gillespie,74234d66,A Flintoff,ddc0828d,B Lee,dd09ff8e,0,0,0,0,,,,,,1,0,1,Australia_9,5,2,65,0,0
+211028,2005,Australia,9,B Lee,dd09ff8e,A Flintoff,ddc0828d,JN Gillespie,74234d66,0,0,0,0,,,,,,0,0,0,Australia_9,6,2,65,0,0
+211028,2005,Australia,10,JN Gillespie,74234d66,PD Collingwood,a386e91b,B Lee,dd09ff8e,0,0,0,0,,,,,,1,0,1,Australia_10,1,2,66,0,0
+211028,2005,Australia,10,B Lee,dd09ff8e,PD Collingwood,a386e91b,JN Gillespie,74234d66,0,0,0,1,,,,,,0,1,1,Australia_10,2,2,67,0,0
+211028,2005,Australia,10,JN Gillespie,74234d66,PD Collingwood,a386e91b,B Lee,dd09ff8e,0,0,0,0,JN Gillespie,74234d66,ME Trescothick,ea42ddb9,caught,0,0,0,Australia_10,3,2,67,0,1
+211028,2005,Australia,10,B Lee,dd09ff8e,PD Collingwood,a386e91b,MS Kasprowicz,8d0ea930,0,0,0,0,,,,,,1,0,1,Australia_10,4,2,68,0,0
+211028,2005,Australia,10,MS Kasprowicz,8d0ea930,PD Collingwood,a386e91b,B Lee,dd09ff8e,0,0,0,0,,,,,,0,0,0,Australia_10,5,2,68,0,0
+211028,2005,Australia,10,MS Kasprowicz,8d0ea930,PD Collingwood,a386e91b,B Lee,dd09ff8e,0,0,0,0,,,,,,0,0,0,Australia_10,6,2,68,0,0
+211028,2005,Australia,11,B Lee,dd09ff8e,A Flintoff,ddc0828d,MS Kasprowicz,8d0ea930,0,0,0,0,,,,,,0,0,0,Australia_11,1,2,68,0,0
+211028,2005,Australia,11,B Lee,dd09ff8e,A Flintoff,ddc0828d,MS Kasprowicz,8d0ea930,0,0,0,0,,,,,,0,0,0,Australia_11,2,2,68,0,0
+211028,2005,Australia,11,B Lee,dd09ff8e,A Flintoff,ddc0828d,MS Kasprowicz,8d0ea930,0,0,0,0,,,,,,0,0,0,Australia_11,3,2,68,0,0
+211028,2005,Australia,11,B Lee,dd09ff8e,A Flintoff,ddc0828d,MS Kasprowicz,8d0ea930,0,0,1,0,,,,,,0,1,1,Australia_11,4,2,69,0,0
+211028,2005,Australia,11,MS Kasprowicz,8d0ea930,A Flintoff,ddc0828d,B Lee,dd09ff8e,1,0,0,0,,,,,,0,1,1,Australia_11,5,2,70,0,0
+211028,2005,Australia,11,MS Kasprowicz,8d0ea930,A Flintoff,ddc0828d,B Lee,dd09ff8e,0,0,0,0,,,,,,1,0,1,Australia_11,6,2,71,0,0
+211028,2005,Australia,11,B Lee,dd09ff8e,A Flintoff,ddc0828d,MS Kasprowicz,8d0ea930,0,0,0,0,,,,,,1,0,1,Australia_11,7,2,72,0,0
+211028,2005,Australia,12,B Lee,dd09ff8e,PD Collingwood,a386e91b,MS Kasprowicz,8d0ea930,0,0,0,0,B Lee,dd09ff8e,SJ Harmison,c16d2e28,caught,0,0,0,Australia_12,1,2,72,0,1
+211028,2005,Australia,12,MS Kasprowicz,8d0ea930,PD Collingwood,a386e91b,GD McGrath,ee7d0c82,0,0,0,0,,,,,,1,0,1,Australia_12,2,2,73,0,0
+211028,2005,Australia,12,GD McGrath,ee7d0c82,PD Collingwood,a386e91b,MS Kasprowicz,8d0ea930,0,0,0,0,,,,,,0,0,0,Australia_12,3,2,73,0,0
+211028,2005,Australia,12,GD McGrath,ee7d0c82,PD Collingwood,a386e91b,MS Kasprowicz,8d0ea930,0,0,0,0,,,,,,3,0,3,Australia_12,4,2,76,0,0
+211028,2005,Australia,12,MS Kasprowicz,8d0ea930,PD Collingwood,a386e91b,GD McGrath,ee7d0c82,0,0,0,0,,,,,,1,0,1,Australia_12,5,2,77,0,0
+211028,2005,Australia,12,GD McGrath,ee7d0c82,PD Collingwood,a386e91b,MS Kasprowicz,8d0ea930,0,0,0,0,,,,,,1,0,1,Australia_12,6,2,78,0,0
+211028,2005,Australia,13,GD McGrath,ee7d0c82,A Flintoff,ddc0828d,MS Kasprowicz,8d0ea930,0,0,0,0,,,,,,0,0,0,Australia_13,1,2,78,0,0
+211028,2005,Australia,13,GD McGrath,ee7d0c82,A Flintoff,ddc0828d,MS Kasprowicz,8d0ea930,0,0,0,0,,,,,,0,0,0,Australia_13,2,2,78,0,0
+211028,2005,Australia,13,GD McGrath,ee7d0c82,A Flintoff,ddc0828d,MS Kasprowicz,8d0ea930,0,0,0,0,,,,,,0,0,0,Australia_13,3,2,78,0,0
+211028,2005,Australia,13,GD McGrath,ee7d0c82,A Flintoff,ddc0828d,MS Kasprowicz,8d0ea930,0,0,0,0,,,,,,0,0,0,Australia_13,4,2,78,0,0
+211028,2005,Australia,13,GD McGrath,ee7d0c82,A Flintoff,ddc0828d,MS Kasprowicz,8d0ea930,0,0,0,0,,,,,,0,0,0,Australia_13,5,2,78,0,0
+211028,2005,Australia,13,GD McGrath,ee7d0c82,A Flintoff,ddc0828d,MS Kasprowicz,8d0ea930,0,0,0,0,,,,,,1,0,1,Australia_13,6,2,79,0,0
+211028,2005,Australia,14,GD McGrath,ee7d0c82,SJ Harmison,c16d2e28,MS Kasprowicz,8d0ea930,0,0,0,0,,,,,,0,0,0,Australia_14,1,2,79,0,0
+211028,2005,Australia,14,GD McGrath,ee7d0c82,SJ Harmison,c16d2e28,MS Kasprowicz,8d0ea930,0,0,0,0,,,,,,0,0,0,Australia_14,2,2,79,0,0
+211028,2005,Australia,14,GD McGrath,ee7d0c82,SJ Harmison,c16d2e28,MS Kasprowicz,8d0ea930,0,0,0,0,GD McGrath,ee7d0c82,,,bowled,0,0,0,Australia_14,3,2,79,0,1
+222678,2005/06,South Africa,0,GC Smith,72861603,SE Bond,4f629497,JH Kallis,86dc8f2e,0,0,0,0,,,,,,0,0,0,South Africa_0,1,1,0,1,0
+222678,2005/06,South Africa,0,GC Smith,72861603,SE Bond,4f629497,JH Kallis,86dc8f2e,0,0,0,0,,,,,,0,0,0,South Africa_0,2,1,0,1,0
+222678,2005/06,South Africa,0,GC Smith,72861603,SE Bond,4f629497,JH Kallis,86dc8f2e,0,0,0,0,,,,,,4,0,4,South Africa_0,3,1,4,1,0
+222678,2005/06,South Africa,0,GC Smith,72861603,SE Bond,4f629497,JH Kallis,86dc8f2e,0,0,0,0,,,,,,4,0,4,South Africa_0,4,1,8,1,0
+222678,2005/06,South Africa,0,GC Smith,72861603,SE Bond,4f629497,JH Kallis,86dc8f2e,0,0,0,0,,,,,,0,0,0,South Africa_0,5,1,8,1,0
+222678,2005/06,South Africa,0,GC Smith,72861603,SE Bond,4f629497,JH Kallis,86dc8f2e,0,0,0,0,,,,,,4,0,4,South Africa_0,6,1,12,1,0
+222678,2005/06,South Africa,1,JH Kallis,86dc8f2e,KD Mills,7fb32e5b,GC Smith,72861603,0,0,0,0,,,,,,0,0,0,South Africa_1,1,1,12,1,0
+222678,2005/06,South Africa,1,JH Kallis,86dc8f2e,KD Mills,7fb32e5b,GC Smith,72861603,0,0,0,0,,,,,,1,0,1,South Africa_1,2,1,13,1,0
+222678,2005/06,South Africa,1,GC Smith,72861603,KD Mills,7fb32e5b,JH Kallis,86dc8f2e,0,0,0,0,,,,,,0,0,0,South Africa_1,3,1,13,1,0
+222678,2005/06,South Africa,1,GC Smith,72861603,KD Mills,7fb32e5b,JH Kallis,86dc8f2e,0,0,0,0,,,,,,2,0,2,South Africa_1,4,1,15,1,0
+222678,2005/06,South Africa,1,GC Smith,72861603,KD Mills,7fb32e5b,JH Kallis,86dc8f2e,0,2,0,0,,,,,,0,2,2,South Africa_1,5,1,17,1,0
+222678,2005/06,South Africa,1,GC Smith,72861603,KD Mills,7fb32e5b,JH Kallis,86dc8f2e,0,0,0,0,,,,,,4,0,4,South Africa_1,6,1,21,1,0
+222678,2005/06,South Africa,1,GC Smith,72861603,KD Mills,7fb32e5b,JH Kallis,86dc8f2e,0,0,0,0,,,,,,3,0,3,South Africa_1,7,1,24,1,0
+222678,2005/06,South Africa,2,GC Smith,72861603,SE Bond,4f629497,JH Kallis,86dc8f2e,0,0,0,0,,,,,,2,0,2,South Africa_2,1,1,26,1,0
+222678,2005/06,South Africa,2,GC Smith,72861603,SE Bond,4f629497,JH Kallis,86dc8f2e,0,0,0,0,,,,,,0,0,0,South Africa_2,2,1,26,1,0
+222678,2005/06,South Africa,2,GC Smith,72861603,SE Bond,4f629497,JH Kallis,86dc8f2e,0,0,0,0,,,,,,0,0,0,South Africa_2,3,1,26,1,0
+222678,2005/06,South Africa,2,GC Smith,72861603,SE Bond,4f629497,JH Kallis,86dc8f2e,0,0,0,0,,,,,,0,0,0,South Africa_2,4,1,26,1,0
+222678,2005/06,South Africa,2,GC Smith,72861603,SE Bond,4f629497,JH Kallis,86dc8f2e,0,0,0,0,,,,,,1,0,1,South Africa_2,5,1,27,1,0
+222678,2005/06,South Africa,2,JH Kallis,86dc8f2e,SE Bond,4f629497,GC Smith,72861603,0,0,0,0,,,,,,4,0,4,South Africa_2,6,1,31,1,0
+222678,2005/06,South Africa,3,GC Smith,72861603,KD Mills,7fb32e5b,JH Kallis,86dc8f2e,0,0,0,0,,,,,,1,0,1,South Africa_3,1,1,32,1,0
+222678,2005/06,South Africa,3,JH Kallis,86dc8f2e,KD Mills,7fb32e5b,GC Smith,72861603,0,0,0,0,,,,,,0,0,0,South Africa_3,2,1,32,1,0
+222678,2005/06,South Africa,3,JH Kallis,86dc8f2e,KD Mills,7fb32e5b,GC Smith,72861603,0,0,0,0,,,,,,0,0,0,South Africa_3,3,1,32,1,0
+222678,2005/06,South Africa,3,JH Kallis,86dc8f2e,KD Mills,7fb32e5b,GC Smith,72861603,0,0,0,0,,,,,,1,0,1,South Africa_3,4,1,33,1,0
+222678,2005/06,South Africa,3,GC Smith,72861603,KD Mills,7fb32e5b,JH Kallis,86dc8f2e,0,0,0,0,,,,,,0,0,0,South Africa_3,5,1,33,1,0
+222678,2005/06,South Africa,3,GC Smith,72861603,KD Mills,7fb32e5b,JH Kallis,86dc8f2e,1,0,0,0,,,,,,0,1,1,South Africa_3,6,1,34,1,0
