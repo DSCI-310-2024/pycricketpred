@@ -1,4 +1,5 @@
 # pycricketpred
+[![codecov](https://codecov.io/gh/DSCI-310-2024/pycricketpred/graph/badge.svg?token=vzmjekckdP)](https://codecov.io/gh/DSCI-310-2024/pycricketpred)
 
 A package for predicting and find interesting cricket related statistics!
 
