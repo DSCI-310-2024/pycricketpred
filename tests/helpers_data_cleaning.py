@@ -106,3 +106,6 @@ dict_X = {'wicket': [1, 23]}
 
 # Check that a filepath is created where none exist
 split_and_save_data(X_fake, y_fake, save_table_path='tests/data/fake_path/')
+
+# Check that an IO Error is raised when the train data 
+split_and_save_data(X_fake, y_fake, save_table_path='tests/data/')

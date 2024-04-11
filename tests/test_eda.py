@@ -49,7 +49,7 @@ def test_str_error():
 # test that a type error is raised for non-string input for column name
 def test_his_col_error():
     with pytest.raises(TypeError):
-        hist_chart(hp_eda.data1, hp_eda.x_input2, hp_eda.chart1, hp_eda.filepath1)
+        hist_chart(hp_eda.data1, hp_eda.x_input3, hp_eda.chart1, hp_eda.filepath1)
 
 # test that a type error is raised for incorrect filepath format
 def test_filepath_error():

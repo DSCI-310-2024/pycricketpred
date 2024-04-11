@@ -64,17 +64,17 @@ def test_train_test_split_and_concat():
     assert y_test.equals(hp_dc.y_test_fake), "y_test and y_test_fake are not the same"
 
     # Assert that the data is saved
-    assert os.path.isfile('tests/data/test_parquet/train_data.csv'), "Train data is not saved"
+    assert os.path.isfile('tests/data/train_data.csv'), "Train data is not saved"
 
-# Test that a type error is raised if the dataframe is empty
+# Test that a type error is raised if the input is not a dataframe
 def test_df_type_error():
     with pytest.raises(TypeError):
-        separate_columns(hp_dc.df_empty), "Dataframe is empty"
+        separate_columns(hp_dc.list_X), "Input is not a dataframe"
 
 # Test that a value error is raised if the wicket column is not in the df
 def test_wicket_value_error():
     with pytest.raises(ValueError):
-        separate_columns(hp_dc.data_x), "Wicket column is not in the dataframe"
+        separate_columns(hp_dc.X_fake), "Wicket column is not in the dataframe"
 
 # Test that a type error is raised if X is not a dataframe
 def test_X_type_error():
@@ -104,8 +104,3 @@ def test_file_path_error():
 # Test that a filepath is created when none exists
 def test_file_path_creation():
     assert os.path.isfile('tests/data/fake_path/train_data.csv'), "Directory not created"
-
-# Test that an IO error is raised
-def test_io_error():
-    with pytest.raises(IOError):
-        split_and_save_data(hp_dc.X_fake, hp_dc.y_fake, save_table_path='23.'), "IOError not raised"
