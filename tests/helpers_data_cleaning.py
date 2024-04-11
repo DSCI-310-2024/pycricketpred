@@ -98,3 +98,15 @@ X_test_fake = X_fake.iloc[split_index:]    # Testing features
 y_train_fake = y_fake.iloc[:split_index]  # Training target
 y_test_fake = y_fake.iloc[split_index:]    # Testing target
 
+# Create an empty dataframe to test errors
+df_empty = pd.DataFrame({})
+
+# Create sample dictionary and list to test that an error is raised when X is not a dataframe
+dict_X = {'wicket': [1, 23]}
+list_X = ['wicket', 2, 3]
+
+# Check that a filepath is created where none exist
+split_and_save_data(X_fake, y_fake, save_table_path='tests/data/fake_path/')
+
+# Check that an IO Error is raised when the train data 
+split_and_save_data(X_fake, y_fake, save_table_path='tests/data/')

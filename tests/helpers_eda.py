@@ -20,11 +20,13 @@ data3 = pd.DataFrame({
     'A': ["hello", "goodbye"],
     'B': ["b", "a"]
 })
+data4 = pd.DataFrame({})
 
 x_input1 = 'A'
 x_input2 = 'a'
 x_input3 = 10
 x_input4 = 'B:N'
+x_input5 = 'F:N'
 
 ## testing for figure input validity
 width1 = 10
