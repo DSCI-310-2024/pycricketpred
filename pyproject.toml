@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pycricketpred"
-version = "0.1.0"
+version = "0.1.1"
 description = "A package for predicting and find interesting cricket related statistics!"
 authors = ["DSCI 310 Group 11: Alex Lin, Jackson Siemens, Shruti Vijaykumar Seetharam, Hanlin Zhao"]
 license = "MIT"
