@@ -56,3 +56,19 @@ def test_concat_output():
             assert hdw.concat1[col].dtype == object, "Season is not string"
         else:
             assert hdw.concat1[col].dtype == hdw.majority1[col], f"Wrong dtype for column {col}"
+
+## check that exceptions are raised
+# check that an exception is raised when the parquet file is not processed
+def test_parquet_exception():
+    with pytest.raises(Exception):
+        process_cricket_jsons('tests/data/test_zips_incorrect.zip', 'tests/data/outputs_incorrect')
+
+# check that an exception is raised when the parquet file is not processed
+def test_parquet_exception():
+    with pytest.raises(Exception):
+        determine_majority_dtypes(['230123.parquet'], 'tests/data/test_parquet_incorrect')
+
+# check that an exception is raised when the parquet file is not processed
+def test_parquet_exception():
+    with pytest.raises(Exception):
+        apply_dtypes_and_concatenate(['230123.parquet'], 'tests/data/test_parquet_incorrect', hdw.majority1)
