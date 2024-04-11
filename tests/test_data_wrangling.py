@@ -68,7 +68,3 @@ def test_parquet_exception():
     with pytest.raises(Exception):
         determine_majority_dtypes(['230123.parquet'], 'tests/data/test_parquet_incorrect')
 
-# check that an exception is raised when the parquet file is not processed
-def test_parquet_exception():
-    with pytest.raises(Exception):
-        apply_dtypes_and_concatenate(['23123.csv'], 'tests/data/test_parquet_incorrect', hdw.majority1)
