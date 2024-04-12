@@ -100,9 +100,9 @@ def transformer(ohe, scaler):
         'runs_total', 'team_over']
     
     ct = make_column_transformer(
-        ("drop", drop_feats),
         (scaler, numerical_feats), 
-        (ohe, categorical_feats)
+        (ohe, categorical_feats),
+        ("drop", drop_feats)
     )
 
     return ct
