@@ -122,12 +122,13 @@ def add_columns(df):
 
         # indicate which ball it is in the over
         df['over_ball'] = df.groupby('team_over').cumcount() + 1
-
+        
         # list the teams in specific game
         teams = df['team'].unique() 
 
         # create inning column
         df['inning'] = [1 if x == teams[0] else 2 for x in df['team']]
+        df['inning'] = df['inning'].astype(int)
 
         # calculate runs so far in innings
         df['runs_cumulative'] = df.groupby('inning')['runs_total'].cumsum()
@@ -135,8 +136,6 @@ def add_columns(df):
         # check if it is powerplay 
         df['powerplay'] = [1 if x <= 5 else 0 for x in df['over']]
         
-        df['powerplay'] = df['powerplay'].astype('object')
-        df['inning'] = df['inning'].astype('object')
     
     return df
 

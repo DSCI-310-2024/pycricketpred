@@ -6,6 +6,7 @@ import sklearn.metrics as metrics
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
+from sklearn.impute import SimpleImputer
 from sklearn.pipeline import make_pipeline
 from sklearn.compose import make_column_transformer
 
@@ -63,7 +64,7 @@ def preprocessing():
     ----------
     >>> preprocessing()
     """
-    ohe = OneHotEncoder(drop = "if_binary", handle_unknown="ignore")
+    ohe = OneHotEncoder(drop = "if_binary", handle_unknown='ignore')
     scaler = StandardScaler()
     return ohe, scaler
 
@@ -91,7 +92,7 @@ def transformer(ohe, scaler):
 
     """
     numerical_feats = ['runs_cumulative']
-    categorical_feats = ['inning', 'over', 'powerplay', 'over_ball',]
+    categorical_feats = ['inning', 'over', 'powerplay', 'over_ball']
     drop_feats = ['game_id', 'season', 'team','batter', 'batter_id', 'bowler',
         'bowler_id', 'non_striker', 'non_striker_id', 'wides', 'noballs',
         'legbyes', 'byes', 'player_out', 'player_out_id', 'fielders_name',
@@ -99,9 +100,9 @@ def transformer(ohe, scaler):
         'runs_total', 'team_over']
     
     ct = make_column_transformer(
+        ("drop", drop_feats),
         (scaler, numerical_feats), 
-        (ohe, categorical_feats),
-        ("drop", drop_feats)
+        (ohe, categorical_feats)
     )
 
     return ct
@@ -184,7 +185,7 @@ def evaluate_model(final_pipe, X_test, y_test, save_image_path):
     >>> evaluate_model(final_model, X_test, y_test, 'images/')
 
     """
-
+    X_test = X_test.dropna()
     score = final_pipe.score(X_test, y_test)
     conf_mat = metrics.confusion_matrix(y_test, final_pipe.predict(X_test))
     plot_cm = metrics.ConfusionMatrixDisplay(conf_mat)
