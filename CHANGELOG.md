@@ -2,6 +2,79 @@
 
 
 
+## v0.1.1 (2024-04-11)
+
+### Documentation
+
+* docs: update example.ipynb ([`e589c24`](https://github.com/DSCI-310-2024/pycricketpred/commit/e589c2441a1f3e22b0e01383cedaa599ee23ab32))
+
+* docs: add coverage reports task to job - cj ([`79c4468`](https://github.com/DSCI-310-2024/pycricketpred/commit/79c4468e30222e43fccf3111f9c4ca23abf59489))
+
+### Fix
+
+* fix: edited readme ([`3bd0d4f`](https://github.com/DSCI-310-2024/pycricketpred/commit/3bd0d4f34e37b9c65e3010529f01d38d52157ecd))
+
+### Unknown
+
+* Merge pull request #9 from DSCI-310-2024/documentation
+
+Documentation ([`569cabe`](https://github.com/DSCI-310-2024/pycricketpred/commit/569cabee3dd40c30694f8245d785aa7b044d54d4))
+
+* edit example usage file to include more examples ([`b841bda`](https://github.com/DSCI-310-2024/pycricketpred/commit/b841bda4e9bf4b5799c40d040e8900e4bf0cea4d))
+
+* Merge branch &#39;main&#39; into documentation ([`dce784e`](https://github.com/DSCI-310-2024/pycricketpred/commit/dce784ea78992f91a61388719c38ee18d50a5ce8))
+
+* Merge branch &#39;main&#39; into documentation ([`2fe74f1`](https://github.com/DSCI-310-2024/pycricketpred/commit/2fe74f1e7a7e33c664425d100acb4e70740785d1))
+
+* Merge pull request #7 from DSCI-310-2024/add-example
+
+create example ([`d09b207`](https://github.com/DSCI-310-2024/pycricketpred/commit/d09b207519c2a2c3735ba8765a54fb7b37b47971))
+
+* resolve merge conflict ([`90228a4`](https://github.com/DSCI-310-2024/pycricketpred/commit/90228a416f6352cfab0f9ad0e92878ab497d267f))
+
+* edit example.ipynb kernel ([`063380f`](https://github.com/DSCI-310-2024/pycricketpred/commit/063380f53e63b2f1936a29fe8fc3f1fbac099dce))
+
+* Merge pull request #8 from DSCI-310-2024/testing
+
+Testing ([`a8a173c`](https://github.com/DSCI-310-2024/pycricketpred/commit/a8a173cdb4ace5a5e9604513659aba56f324d2de))
+
+* remove all exception testing ([`fbd8b17`](https://github.com/DSCI-310-2024/pycricketpred/commit/fbd8b17629a75bd6658e86951664bf2c0089c36a))
+
+* remove exception testing ([`9654881`](https://github.com/DSCI-310-2024/pycricketpred/commit/9654881f956360d4ed16e98ea8f51c5b1165baad))
+
+* fix tests file path ([`7dc2c6d`](https://github.com/DSCI-310-2024/pycricketpred/commit/7dc2c6d4e40aa78da6e0b8b15ebe075915812aec))
+
+* fix tests ([`b92795f`](https://github.com/DSCI-310-2024/pycricketpred/commit/b92795ffdf065eee981b45961e8c06f930febcba))
+
+* add testing to increase code coverage ([`098d521`](https://github.com/DSCI-310-2024/pycricketpred/commit/098d5213dcd80899e648164dbd47e1218918de5f))
+
+* add all dependencies ([`657e59d`](https://github.com/DSCI-310-2024/pycricketpred/commit/657e59d026e771753dc9bc8569216e986126f2c3))
+
+* add more dependencies and edit readthedocs.yaml ([`033329e`](https://github.com/DSCI-310-2024/pycricketpred/commit/033329ef8d04c9964db16cac9dc48aa44e4490f4))
+
+* add comments ([`fe8dfa4`](https://github.com/DSCI-310-2024/pycricketpred/commit/fe8dfa4d0f6ac1f60f85c426d4cf8f400a530cd9))
+
+* add comments ([`3bba136`](https://github.com/DSCI-310-2024/pycricketpred/commit/3bba1362c981303505b78ba3e15153155110647a))
+
+* fix test cov ([`91a3c2b`](https://github.com/DSCI-310-2024/pycricketpred/commit/91a3c2be7d1141389fbb44969bd8d5812232f032))
+
+* fix test cov ([`0b4664a`](https://github.com/DSCI-310-2024/pycricketpred/commit/0b4664a8ec312317555e7dba16bd098d8e0d496d))
+
+* create example ([`caedb7b`](https://github.com/DSCI-310-2024/pycricketpred/commit/caedb7b0799b62839da84993823e07f9cc77aaba))
+
+* update readme to include badge ([`9a5f925`](https://github.com/DSCI-310-2024/pycricketpred/commit/9a5f9252e6edd71a9774e706a732f0e22e465a72))
+
+* Merge pull request #6 from DSCI-310-2024/add_badge
+
+Code coverage badge is added ([`79279ce`](https://github.com/DSCI-310-2024/pycricketpred/commit/79279ce7650075926e3f52dbba1b600c8547c942))
+
+* update README to include usage ([`401fa49`](https://github.com/DSCI-310-2024/pycricketpred/commit/401fa49cd2812d03dd7f2f2e95cb8ccc95b5a53c))
+
+* add semantic release table and dependencies ([`99a36d9`](https://github.com/DSCI-310-2024/pycricketpred/commit/99a36d9cf75510eb7a5823bc139cd3eb03d8fbf4))
+
+* add semantic release table to pyproject ([`3d0a20e`](https://github.com/DSCI-310-2024/pycricketpred/commit/3d0a20ea8ff56abb517d530f636ac09a178eea18))
+
+
 ## v0.1.0 (2024-04-08)
 
 ### Build
